@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile:
+author_profile: ture
 redirect_from: 
   - /about/
   - /about.html
