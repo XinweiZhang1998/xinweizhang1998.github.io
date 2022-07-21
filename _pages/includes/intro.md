@@ -1,7 +1,9 @@
 # About Me
-I am currently a postgraduate student with School of Cyber Science and Engineering, Southeast University, under the supervision of Associate Prof. Guyue Li.
+I am currently a postgraduate student with School of Cyber Science and Engineering, Southeast University, under the supervision of [Associate Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue). During this time, I got the National Scholarship, Outstanding Graduates, etc.
 
+I received the B.S. degree in computer science and technology from Henan University of Technology, Zhengzhou,China, in 2018. From April 2021 to September 2021, I worked as a Research Assistant with the Department of Computing, The Hong Kong Polytechnic University. 
 
+My research interests include physical-layer security, secret key generation, blockchain and AI security.
 <!--
 ;I work at [Sea AI Lab](https://sail.sea.com/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as a research scientist now, leading the audio team and doing some fundamental audio-related research. We are [hiring researchers and engineers](https://career.sea.com/position/427) to work on TTS, music generation, speech translation and audio-driven talking face generation. If interested, feel free to email me at [renyi@sea.com](mailto:renyi@sea.com).
 
