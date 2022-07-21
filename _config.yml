@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Xinwei Zhang (张鑫伟)"
   avatar           : "images/zxw.png"
-  bio              : "Master Student"
+  bio              : #"Master Student"
   location         : "China"
   employer         :
   pubmed           : 
