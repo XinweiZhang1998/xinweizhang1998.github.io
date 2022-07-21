@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinwei Zhang (张鑫伟)"
-description              : "Master Student \n Southeast University"
+description              : #"Master Student \n Southeast University"
 repository               : "XinweiZhang1998/xinweizhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :
 author:
   name             : "Xinwei Zhang (张鑫伟)"
   avatar           : "images/zxw.png"
-  bio              : #"Master Student"
+  bio              : "Master Student"
   location         : "China"
-  employer         :
+  employer         : "Southeast University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OdBgAwkAAAAJ&hl=zh-CN"
   email            : "xwzhang1998@gmail.com"
