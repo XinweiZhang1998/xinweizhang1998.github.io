@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinwei Zhang (张鑫伟)"
-description              : "Master Student at Southeast University. Focusing on Physical Layer Security."
+description              : "Master Student \n Southeast University"
 repository               : "XinweiZhang1998/xinweizhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : #"rayeren"
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
-  orcid            : #"https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/0000-0002-1267-5182"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
