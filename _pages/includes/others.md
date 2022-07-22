@@ -10,5 +10,9 @@
 
 # 💻 Professional Activities
 - IEEE Student Member.
-- Journal reviewer: IEEE Internet of Things Journal (IoTJ), IEEE Systems Journal.
-- Conference reviewer: IEEE INFOCOM 2021, IEEE ICDCS 2022.
+- Journal reviewer: 
+  - IEEE Internet of Things Journal (IoTJ)
+  - IEEE Systems Journal
+- Conference reviewer: 
+  - IEEE INFOCOM 2021
+  - IEEE ICDCS 2022
