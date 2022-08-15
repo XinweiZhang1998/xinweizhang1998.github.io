@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinwei Zhang (张鑫伟)"
-description              : "Southeast University"
+description              : "NWPU"
 repository               : "XinweiZhang1998/xinweizhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Xinwei Zhang (张鑫伟)"
   avatar           : "images/zxw.png"
-  bio              : "Master Student"
+  bio              : "Research Assistant"
   location         : "China"
   employer         : #"Southeast University"
   pubmed           : 
