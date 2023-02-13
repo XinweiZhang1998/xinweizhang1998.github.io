@@ -11,6 +11,7 @@
 # Professional Activities
 - IEEE Student Member.
 - Journal reviewer: 
+  - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Internet of Things Journal (IoTJ)
   - IEEE Systems Journal
 - Conference reviewer: 
