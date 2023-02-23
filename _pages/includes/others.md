@@ -11,10 +11,9 @@
 
 # Professional Activities
 - IEEE Student Member.
-- Journal reviewer: 
+- Journal/Conference reviewer: 
   - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Internet of Things Journal (IoTJ)
   - IEEE Systems Journal
-- Conference reviewer: 
-  - IEEE INFOCOM 2021
-  - IEEE ICDCS 2022
+  - IEEE INFOCOM
+  - IEEE ICDCS
