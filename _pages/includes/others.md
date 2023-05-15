@@ -7,7 +7,9 @@
 
 # Experiences
 - *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/).
-
+- *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://helei.pro/).
+- *May 2023- Aug. 2023*, Research Assistant, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](http://www.haibohu.org/wordpress/).
+- 
 # Professional Activities
 - IEEE Student Member.
 - Journal/Conference reviewer: 
