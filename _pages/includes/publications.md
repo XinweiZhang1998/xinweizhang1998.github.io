@@ -1,6 +1,6 @@
 
 # Publications
-- [In Submission] **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang, "Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments", Arxiv. ([RG Link](https://www.researchgate.net/publication/365189930_Enabling_Deep_Learning-based_Physical-layer_Secret_Key_Generation_for_FDD-OFDM_Systems_in_Multi-Environments))
+- [In Submission] **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang, "Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments", Arxiv. ([Arxiv Link](https://arxiv.org/abs/2211.03065))
 - [IEEE ICC-2023] Z. Liu, **X. Zhang**, L. Lao, G. Li, B. Xiao, "DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System", in Proc. IEEE International Conference on Communications (ICC-2023), Rome, Italy, 28 May -01 June 2023, pp. 1-7.
 - [IEEE IoTJ-2022] **X. Zhang**, G. Li*, J. Zhang, A. Hu, Z. Hou, B. Xiao, "Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems" in IEEE Internet of Things Journal, vol. 9, no. 8, pp. 6081-6094, 15 April, 2022. (JCR Q1, IF=10.238) ([IEEE Link](https://ieeexplore.ieee.org/document/9526766))
 - [IEEE VTC-2021] **X. Zhang**, G. Li*, Z. Hou and A. Hu, “Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network” in Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall), Norman, OK, USA, 27-30 Sep. 2021, pp. 1-6. ([IEEE Link](https://ieeexplore.ieee.org/document/9625252))
