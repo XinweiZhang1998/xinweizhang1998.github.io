@@ -2,7 +2,7 @@
 # Educations
 - *Sep. 2023- Now*, PhD, The Hong Kong Polytechnic University.
 
-- *Sep. 2019- June 2022*, Master, Computer technology, Southeast University, Supervisor: [Associate Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB (Physical-Layer Security LAB)](https://sunyl1123.github.io/6102laboratory.github.io/)).(Outstanding Graduates)
+- *Sep. 2019- June 2022*, Master, Computer technology, Southeast University, Supervisor: [Dr. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB](https://sunyl1123.github.io/6102laboratory.github.io/)).(Outstanding Graduates)
 
 - *Sep. 2014- July 2018*, Bachelor, Computer Science and Technology, Henan University of Technology.(Outstanding Graduates)
 
