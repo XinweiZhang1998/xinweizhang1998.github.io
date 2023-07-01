@@ -8,7 +8,7 @@
 
 
 # Experiences
-- *May 2023- Aug. 2023*, Research Assistant, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](http://www.haibohu.org/wordpress/).
+- *May 2023- Aug. 2023*, Research Assistant, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](http://www.haibohu.org/wordpress/).
 
 - *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://helei.pro/).
 
@@ -18,7 +18,7 @@
 - IEEE Student Member.
 - Journal/Conference reviewer: 
   - IEEE Transactions on Wireless Communication (TWC)
-  - IEEE Internet of Things Journal (IoTJ)
+  - IEEE Internet of Things Journal (IoT-J)
   - IEEE Systems Journal
   - IEEE INFOCOM
   - IEEE ICDCS
