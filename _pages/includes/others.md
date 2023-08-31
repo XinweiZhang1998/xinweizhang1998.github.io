@@ -16,7 +16,9 @@
 - IEEE Student Member.
 - Journal/Conference reviewer: 
   - IEEE Transactions on Wireless Communication (TWC)
+  - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Internet of Things Journal (IoT-J)
   - IEEE Systems Journal
   - IEEE INFOCOM
   - IEEE ICDCS
+  - IEEE VTC
