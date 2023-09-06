@@ -19,7 +19,7 @@
 
 - "[Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems](https://ieeexplore.ieee.org/document/9484457)" <br />
   Z. Hou and **X. Zhang*** <br />
-  In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS).
+  In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS 2021).
 
 # Other Publications
 - [Patent] 李古月；**张鑫伟**；侯宗越；王星宇，一种基于深度学习的频分双工系统密钥生成方法，已授权，2022/11/18，CN112906035B.
