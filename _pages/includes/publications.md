@@ -1,5 +1,5 @@
 # Preprint
-- "Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments" <br />
+- "<big>Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments</big>" <br /> 
   **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
   In Arxiv. ([Arxiv Link](https://arxiv.org/abs/2211.03065))
 
