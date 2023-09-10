@@ -1,23 +1,22 @@
-# Preprint
-- "<big>Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments</big>" <br /> 
-  **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
-  In Arxiv. ([Arxiv Link](https://arxiv.org/abs/2211.03065))
-
 # Publications 
 ([⋅]* is the corresponding author)
-- "[DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](_pages/File/2023-ICC.pdf)" <br />
+- "<big>[Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065)</big>" <br /> 
+  **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
+  In Arxiv 2022.
+  
+- "<big>[DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](_pages/File/2023-ICC.pdf)</big>" <br />
   Z. Liu, **X. Zhang**, L. Lao, G. Li, B. Xiao* <br />
-  In Proc. IEEE International Conference on Communications (ICC-2023) <br />
+  In Proc. IEEE International Conference on Communications (ICC-2023).
 
-- "[Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems](https://ieeexplore.ieee.org/document/9526766)" <br />
+- "<big>[Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems](https://ieeexplore.ieee.org/document/9526766)</big>" <br />
   **X. Zhang**, G. Li*, J. Zhang, A. Hu, Z. Hou, B. Xiao <br />
   In IEEE Internet of Things Journal, 2022. (JCR Q1, IF=10.6)
   
-- “[Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network](https://ieeexplore.ieee.org/document/9625252)” <br />
+- “<big>[Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network](https://ieeexplore.ieee.org/document/9625252)</big>” <br />
   **X. Zhang**, G. Li*, Z. Hou and A. Hu <br />
   In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall).
 
-- "[Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems](https://ieeexplore.ieee.org/document/9484457)" <br />
+- "<big>[Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems](https://ieeexplore.ieee.org/document/9484457)</big>" <br />
   Z. Hou and **X. Zhang*** <br />
   In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS 2021).
 
