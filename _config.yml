@@ -23,9 +23,9 @@ baidu_site_verification  :
 author:
   name             : "Xinwei Zhang (张鑫伟)"
   avatar           : "images/zxw.png"
-  bio              : "PhD Student"
-  location         : "Hong Kong"
-  employer         : "PolyU"
+  bio              : "PhD Student at HK PolyU"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OdBgAwkAAAAJ&hl=zh-CN"
   email            : "xwzhang1998@gmail.com"
