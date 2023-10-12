@@ -4,4 +4,4 @@ I am a PhD student with [the Department of Electrical and Electronic Engineering
 # Research interests 
 * Physical-layer security, especially secret key generation.
 * Blockchain.
-* Trustworthy machine learning.
+* **Trustworthy machine learning (Currently focus on)**.
