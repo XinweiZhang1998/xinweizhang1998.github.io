@@ -4,7 +4,7 @@
   **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
   In Arxiv 2022.
   
-- "<big>[DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](_pages/File/2023-ICC.pdf)</big>" <br />
+- "<big>[DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](https://ieeexplore.ieee.org/document/10279692)</big>" <br />
   Z. Liu, **X. Zhang**, L. Lao, G. Li, B. Xiao* <br />
   In Proc. IEEE International Conference on Communications, 2023. (ICC-2023)
 
