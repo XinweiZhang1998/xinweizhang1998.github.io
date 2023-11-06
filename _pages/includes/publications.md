@@ -2,7 +2,7 @@
 ([⋅]* is the corresponding author)
 - "<big>[Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065)</big>" <br /> 
   **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
-  In Arxiv 2022.
+  In Submission (Submitted to IEEE TVT, major revision).
   
 - "<big>[DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](https://ieeexplore.ieee.org/document/10279692)</big>" <br />
   Z. Liu, **X. Zhang**, L. Lao, G. Li, B. Xiao* <br />
