@@ -10,7 +10,7 @@
 # Experiences
 - *May 2023- Aug. 2023*, Research Assistant, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
 
-- *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/).
+- *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
 
 # Professional Activities
 - IEEE Student Member.
