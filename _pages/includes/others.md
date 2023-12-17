@@ -16,7 +16,8 @@
 
 # Professional Activities
 - IEEE Student Member.
-- Journal/Conference reviewer: 
+- Journal/Conference reviewer:
+  - IEEE Transactions on Information Forensics & Security (TIFS)
   - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Internet of Things Journal (IoT-J)
