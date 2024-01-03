@@ -1,6 +1,5 @@
 # News
 - *2023.12*: My Master's Thesis is rated as "Excellent Master Dissertation Award of Jiangsu Province".
-- *2023.09*: I join the ASTAPLE Lab as a PhD student, focusing on Adversarial Machine Learning.
 - *2023.06*: My Master's Thesis is rated as "Excellent Master Dissertation Award of Southeast University" (Top 2%).
 - *2023.01*: Our paper, "DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System", has been accepted by IEEE ICC'23.
 - *2021.09*: Our paper, "Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems", has been accepted by IEEE Internet of Things Journal.
