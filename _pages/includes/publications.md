@@ -21,7 +21,7 @@
   **X. Zhang**, G. Li*, Z. Hou and A. Hu <br />
  *In Proc. 2021 IEEE 94th Vehicular Technology Conference, 2021. (VTC2021-Fall)*
   
-**<big>INFOCOM WKSHPS'22</big>** <br />
+**<big>INFOCOM WKSHPS'21</big>** <br />
 <big>[Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems](https://ieeexplore.ieee.org/document/9484457)</big> <br />
  Z. Hou and **X. Zhang*** <br />
  *In Proc. IEEE Conference on Computer Communications Workshops, 2021. (INFOCOM WKSHPS 2021)*
