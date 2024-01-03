@@ -4,7 +4,7 @@
 **<big>In Submission</big>** <br />
 <big>[Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065)</big><br /> 
   **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
-  *In Submission (Submitted to IEEE TVT, major revision).*
+  *Arxiv (Submitted to IEEE TVT, major revision).*
 
 **<big>ICC'23</big>** <br />
 <big>[DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](https://ieeexplore.ieee.org/document/10279692)</big> <br />
