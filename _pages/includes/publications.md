@@ -4,7 +4,7 @@
 - **[In Submission]**
  [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065) <br /> 
   **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
-  *Arxiv (Submitted to IEEE TVT, major revision).*
+  *Arxiv (Submitted to IEEE TVT, major revision)*
   
 - **[ICC'23]**
  [DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](https://ieeexplore.ieee.org/document/10279692)  <br />
@@ -19,7 +19,7 @@
 - **[VTC'21-FALL]**
  [Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network](https://ieeexplore.ieee.org/document/9625252)  <br />
   **X. Zhang**, G. Li*, Z. Hou and A. Hu <br />
- *In Proc. 2021 IEEE 94th Vehicular Technology Conference, 2021. (VTC2021-Fall)*
+ *In Proc. 2021 IEEE 94th Vehicular Technology Conference, 2021.*
   
 - **[INFOCOM WKSHPS'21]**
  [Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems](https://ieeexplore.ieee.org/document/9484457)  <br />
