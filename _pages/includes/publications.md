@@ -5,7 +5,12 @@
 [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
 Arxiv (Submitted to IEEE TVT, major revision)
-  
+
+- **[ICC'24]**
+A Secure and Reliable Blockchain-based Audit Log System  <br />
+Z. Liu, **X. Zhang**, G. Li, H. Cui, J. Wang, B. Xiao* <br />
+In Proc. IEEE International Conference on Communications, 2024. (ICC-2024)
+
 - **[ICC'23]**
 [DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System](https://ieeexplore.ieee.org/document/10279692)  <br />
 Z. Liu, **X. Zhang**, L. Lao, G. Li, B. Xiao* <br />
