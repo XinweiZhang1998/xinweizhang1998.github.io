@@ -1,4 +1,5 @@
 # News
+- *2024.01*: Our paper, "A Secure and Reliable Blockchain-based Audit Log System", has been accepted by IEEE ICC'24.
 - *2023.12*: My Master's Thesis is rated as "Excellent Master Dissertation Award of Jiangsu Province".
 - *2023.06*: My Master's Thesis is rated as "Excellent Master Dissertation Award of Southeast University" (Top 2%).
 - *2023.01*: Our paper, "DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System", has been accepted by IEEE ICC'23.
