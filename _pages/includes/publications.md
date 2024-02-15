@@ -1,10 +1,10 @@
 # Publications 
 ([⋅]* is the corresponding author)
 
-- **[In Submission]**
+- **[IEEE TVT'24]**
 [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
-Arxiv (Submitted to IEEE TVT, major revision)
+IEEE Transactions on Vehicular Technology, accepted to appear, 2024.
 
 - **[ICC'24]**
 A Secure and Reliable Blockchain-based Audit Log System  <br />
@@ -19,7 +19,7 @@ In Proc. IEEE International Conference on Communications, 2023. (ICC-2023)
 - **[IEEE IoTJ'22]**
 [Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems](https://ieeexplore.ieee.org/document/9526766)  <br />
 **X. Zhang**, G. Li*, J. Zhang, A. Hu, Z. Hou, B. Xiao <br />
-In IEEE Internet of Things Journal, 2022. (JCR Q1, IF=10.6)
+IEEE Internet of Things Journal, 2022. (JCR Q1, IF=10.6)
 
 - **[VTC'21-FALL]**
 [Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network](https://ieeexplore.ieee.org/document/9625252)  <br />
