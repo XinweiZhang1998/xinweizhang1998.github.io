@@ -3,7 +3,7 @@
 
 - **[IEEE TVT'24]**
 [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065) <br /> 
-**X. Zhang**, G. Li*, J. Zhang, A. Hu, X. Wang <br />
+**X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
 IEEE Transactions on Vehicular Technology, accepted to appear, 2024.
 
 - **[ICC'24]**
