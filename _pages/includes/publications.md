@@ -2,9 +2,9 @@
 ([⋅]* is the corresponding author)
 
 - **[IEEE TVT'24]**
-[Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://arxiv.org/abs/2211.03065v2) <br /> 
+[Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
-IEEE Transactions on Vehicular Technology, accepted to appear, 2024.
+IEEE Transactions on Vehicular Technology, accepted to appear, 2024. [Arxiv Link](https://arxiv.org/abs/2211.03065v2)
 
 - **[ICC'24]**
 A Secure and Reliable Blockchain-based Audit Log System  <br />
