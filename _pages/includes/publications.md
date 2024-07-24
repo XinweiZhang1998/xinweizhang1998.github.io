@@ -3,7 +3,7 @@
 
 - [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
-_IEEE Transactions on Vehicular Technology_, accepted to appear, 2024. (JCR Q1, IF=6.8)
+_IEEE Transactions on Vehicular Technology_, vol. 73, no. 7, pp. 10135-10149, July 2024.
 
 - A Secure and Reliable Blockchain-based Audit Log System  <br />
 Z. Liu, **X. Zhang**, G. Li, H. Cui, J. Wang, B. Xiao* <br />
@@ -15,7 +15,7 @@ _In Proc. IEEE International Conference on Communications_, 2023. (ICC-2023)
 
 - [Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems](https://ieeexplore.ieee.org/document/9526766)  <br />
 **X. Zhang**, G. Li*, J. Zhang, A. Hu, Z. Hou, B. Xiao <br />
-_IEEE Internet of Things Journal_, 2022. (JCR Q1, IF=10.6)
+_IEEE Internet of Things Journal_, vol. 9, no. 8, pp. 6081-6094, April 2022.
 
 - [Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network](https://ieeexplore.ieee.org/document/9625252)  <br />
 **X. Zhang**, G. Li*, Z. Hou and A. Hu <br />
