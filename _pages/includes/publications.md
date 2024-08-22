@@ -5,7 +5,7 @@
 **X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
 _IEEE Transactions on Vehicular Technology_, vol. 73, no. 7, pp. 10135-10149, July 2024.
 
-- A Secure and Reliable Blockchain-based Audit Log System  <br />
+- [A Secure and Reliable Blockchain-based Audit Log System](https://ieeexplore.ieee.org/document/10623012)  <br />
 Z. Liu, **X. Zhang**, G. Li, H. Cui, J. Wang, B. Xiao* <br />
 _In Proc. IEEE International Conference on Communications_, 2024. (ICC-2024)
 
