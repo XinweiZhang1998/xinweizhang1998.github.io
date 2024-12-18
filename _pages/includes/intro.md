@@ -4,6 +4,6 @@ I am a PhD student with [the Department of Electrical and Electronic Engineering
 Feel free to drop me an email if you want to collaborate or have a discussion!
 
 # Research interests 
-* Physical-layer security, especially secret key generation.
-* Blockchain.
+* Physical-layer security, especially secret key generation [[IoT-J'2022](https://ieeexplore.ieee.org/document/9526766), [TVT'2024](https://ieeexplore.ieee.org/document/10440494)].
+* Blockchain [[ICC'2023](https://ieeexplore.ieee.org/document/10279692), [ICC'2024](https://ieeexplore.ieee.org/document/10623012)].
 * **Trustworthy machine learning (Currently focus on)**.
