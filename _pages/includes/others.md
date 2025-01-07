@@ -9,9 +9,11 @@
 
 # Experiences
 - Teaching Assistant:
-  - 2023-Fall: EIE4117 Integrated Project
+  - 2023-Fall: EIE3117 Integrated Project
   - 2024-Spring: EIE4118 Intrusion Detection and Penetration Test
-  - 2024-Fall: EIE4117 Integrated Project
+  - 2024-Fall: EIE3117 Integrated Project
+  - 2025-Spring: EIE3117 Integrated Project
+
 
 - *May 2023- Aug. 2023*, Research Assistant, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
 
