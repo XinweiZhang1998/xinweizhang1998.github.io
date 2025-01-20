@@ -1,4 +1,5 @@
 # News
+- *2025.01*: Our paper, "MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective", has been accepted by ACM TheWebConference 2025.
 - *2024.02*: Our paper, "Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments", has been accepted by IEEE Transactions on Vehicular Technology.
 - *2024.01*: Our paper, "A Secure and Reliable Blockchain-based Audit Log System", has been accepted by IEEE ICC'24.
 - *2023.12*: My Master's Thesis is rated as "Excellent Master Dissertation Award of Jiangsu Province".
