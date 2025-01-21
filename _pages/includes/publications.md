@@ -1,6 +1,6 @@
 # Publications 
 ([⋅]* is the corresponding author)
-- MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective  <br />
+- **MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**  <br />
 **X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng<br />
 _ACM TheWebConference(WWW)_, 2025. (Acceptance rate=19.8%)
 
