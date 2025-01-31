@@ -1,8 +1,8 @@
 # Publications 
 ([⋅]* is the corresponding author)
-- **MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**  <br />
+- [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion)  <br />
 **X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng<br />
-_In Proc. ACM TheWebConference(WWW)_, 2025. (Acceptance rate=19.8%)
+_In Proc. ACM TheWebConference(WWW)_, 2025. (Acceptance rate=19.8%) [[Code](https://github.com/XinweiZhang1998/MER_Inspector)]
 
 - [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
