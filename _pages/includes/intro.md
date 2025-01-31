@@ -6,4 +6,4 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 # Research interests 
 * Physical-layer security, especially secret key generation [[IoT-J'2022](https://ieeexplore.ieee.org/document/9526766), [TVT'2024](https://ieeexplore.ieee.org/document/10440494)].
 * Blockchain [[ICC'2023](https://ieeexplore.ieee.org/document/10279692), [ICC'2024](https://ieeexplore.ieee.org/document/10623012)].
-* **Trustworthy machine learning, especially model extraction attacks [WWW'2025], large Multi-modal Model Security, Privacy, and Safety. (Currently focused on)**
+* **Trustworthy machine learning**, especially model extraction attacks [[WWW'2025](https://openreview.net/forum?id=PrmAeIReL1#discussion)], large Multi-modal Model Security, Privacy, and Safety. (Currently focused on)
