@@ -23,15 +23,15 @@
 
 # Professional Activities
 - IEEE Student Member.
+- ACM Student Member.
 - Journal/Conference reviewer:
-  - ACM WWW 2025
+  - ACM WWW
   - IEEE Transactions on Information Forensics & Security (TIFS)
   - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Internet of Things Journal (IoT-J)
   - International Journal of Information Security
   - IEEE Systems Journal
-  - IEEE INFOCOM
-  - IEEE ICDCS
-  - IEEE VTC
+  - IEEE INFOCOM, ICDCS, VTC, etc
+
 
