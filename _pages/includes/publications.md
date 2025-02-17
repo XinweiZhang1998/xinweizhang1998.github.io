@@ -18,7 +18,7 @@ _In Proc. IEEE International Conference on Communications_, 2023. (ICC-2023)
 
 - [Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems](https://ieeexplore.ieee.org/document/9526766)  <br />
 **X. Zhang**, G. Li*, J. Zhang, A. Hu, Z. Hou, B. Xiao <br />
-_IEEE Internet of Things Journal_, vol. 9, no. 8, pp. 6081-6094, April 2022.
+_IEEE Internet of Things Journal_, vol. 9, no. 8, pp. 6081-6094, April 2022. [[code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
 
 - [Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network](https://ieeexplore.ieee.org/document/9625252)  <br />
 **X. Zhang**, G. Li*, Z. Hou and A. Hu <br />
