@@ -27,7 +27,6 @@
 - Journal/Conference reviewer:
   - ACM WWW
   - ACM MM
-  - ICCV
   - IEEE Transactions on Information Forensics & Security (TIFS)
   - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Transactions on Vehicular Technology (TVT)
