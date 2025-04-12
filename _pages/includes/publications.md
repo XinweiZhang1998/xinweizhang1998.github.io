@@ -6,14 +6,11 @@
 
 [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion) <br />
 X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng <br />
-_In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) [[Code](https://github.com/XinweiZhang1998/MER_Inspector)] [[Pdf](https://github.com/XinweiZhang1998/xinweizhang1998.github.io/blob/main/_pages/File/WWW25_MER_Inspector.pdf)]
+_In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
+[[Code](https://github.com/XinweiZhang1998/MER_Inspector)] [[Pdf](https://github.com/XinweiZhang1998/xinweizhang1998.github.io/blob/main/_pages/File/WWW25_MER_Inspector.pdf)]
 
 </div>
 </div>
-
-- [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion)  <br />
-**X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng<br />
-_In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) [[Code](https://github.com/XinweiZhang1998/MER_Inspector)] [[Pdf](https://github.com/XinweiZhang1998/xinweizhang1998.github.io/blob/main/_pages/File/WWW25_MER_Inspector.pdf)]
 
 - [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
