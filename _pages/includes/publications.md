@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion) <br />
-X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng <br />
+**X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
 [[Code](https://github.com/XinweiZhang1998/MER_Inspector)] [[Pdf](https://github.com/XinweiZhang1998/xinweizhang1998.github.io/blob/main/_pages/File/WWW25_MER_Inspector.pdf)]
 
@@ -15,7 +15,7 @@ _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT2024</div><img src='images/TVT2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494) <br /> 
+  [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
 _IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.
 
