@@ -12,9 +12,15 @@ _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT2024</div><img src='images/TVT2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494) <br /> 
 **X. Zhang**, G. Li*, J. Zhang, L. Peng, A. Hu, X. Wang <br />
 _IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.
+
+</div>
+</div>
 
 - [A Secure and Reliable Blockchain-based Audit Log System](https://ieeexplore.ieee.org/document/10623012)  <br />
 Z. Liu, **X. Zhang**, G. Li, H. Cui, J. Wang, B. Xiao* <br />
