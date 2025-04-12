@@ -1,5 +1,15 @@
 # Publications 
 ([⋅]* is the corresponding author)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW2025</div><img src='images/WWW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion)
+Lingxin Jin, **Xiangyu Wen**, Wei Jiang, Jinyu Zhan
+
+</div>
+</div>
+
 - [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion)  <br />
 **X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng<br />
 _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) [[Code](https://github.com/XinweiZhang1998/MER_Inspector)] [[Pdf](https://github.com/XinweiZhang1998/xinweizhang1998.github.io/blob/main/_pages/File/WWW25_MER_Inspector.pdf)]
