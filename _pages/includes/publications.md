@@ -1,7 +1,7 @@
 # Publications 
 ([⋅]* is the corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW2025</div><img src='../images/WWW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW2025</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion) <br />
