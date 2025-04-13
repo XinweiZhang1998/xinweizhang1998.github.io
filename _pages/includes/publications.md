@@ -7,7 +7,7 @@
 [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion) <br />
 **X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
-[[Code](https://github.com/XinweiZhang1998/MER_Inspector)] [[Pdf](../File/WWW25_MER_Inspector.pdf)]
+[[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="../File/WWW25_MER_Inspector.pdf" target="_blank">PDF.</a>]
 
 </div>
 </div>
