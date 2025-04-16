@@ -2,7 +2,7 @@
 # Educations
 - *Sep. 2023- Aug. 2026 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
 
-- *Sep. 2019- June 2022*, Master, Computer Technology, Southeast University, Supervisor: [Dr. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB](https://sunyl1123.github.io/6102laboratory.github.io/)). (Outstanding Graduates)
+- *Sep. 2019- June 2022*, Master of Engineering, Computer Technology, Southeast University, Supervisor: [Dr. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB](https://sunyl1123.github.io/6102laboratory.github.io/)). (Outstanding Graduates)
 
 <!--  - *Sep. 2014- July 2018*, Bachelor, Computer Science and Technology, Henan University of Technology. (Outstanding Graduates) -->
 
@@ -25,15 +25,8 @@
 - IEEE Student Member.
 - ACM Student Member.
 - Journal/Conference reviewer:
-  - ACM WWW
-  - ACM MM
-  - IEEE Transactions on Information Forensics & Security (TIFS)
-  - IEEE Transactions on Wireless Communication (TWC)
-  - IEEE Transactions on Vehicular Technology (TVT)
-  - IEEE Internet of Things Journal (IoT-J)
-  - International Journal of Information Security
-  - IEEE Systems Journal
-  - IEEE INFOCOM, ICDCS, VTC, etc
+  - ACM WWW, ACM MM, IEEE INFOCOM, ICDCS, VTC, etc
+  - IEEE Transactions on Information Forensics & Security (TIFS), IEEE Transactions on Wireless Communication (TWC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IoT-J), International Journal of Information Security, IEEE Systems Journal, etc
  
 # Visitors
 <a href='https://clustrmaps.com/site/1c5hr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616'/></a>
