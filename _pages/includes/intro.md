@@ -9,4 +9,3 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 * **Trustworthy machine learning (Currently focused on)**
   * Model Extraction Attacks [[WWW'2025](https://openreview.net/forum?id=PrmAeIReL1#discussion)]
   * Large Multi-Modal Models' Security, Privacy, and Safety
-https://scholar.google.com/citations?user=OdBgAwkAAAAJ&hl=en
