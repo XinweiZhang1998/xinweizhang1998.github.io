@@ -4,10 +4,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM WWW 2025</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://openreview.net/forum?id=PrmAeIReL1#discussion) <br />
+[MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 **X. Zhang**, H. Hu*, Q. Ye, L. Bai, H. Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
-[[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF.</a>]
+[[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF</a>]
 
 </div>
 </div>
