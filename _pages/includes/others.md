@@ -19,7 +19,6 @@
 
 - *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://harrycui.github.io/).
 
-https://harrycui.github.io/
 - *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
 
 # Professional Activities
