@@ -7,5 +7,6 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 * Physical-layer security, especially secret key generation [[IoT-J'2022](https://ieeexplore.ieee.org/document/9526766), [TVT'2024](https://ieeexplore.ieee.org/document/10440494)].
 * Blockchain [[ICC'2023](https://ieeexplore.ieee.org/document/10279692), [ICC'2024](https://ieeexplore.ieee.org/document/10623012)].
 * **Trustworthy machine learning (Currently focused on)**
-  * Model Extraction Attacks [[WWW'2025](https://dl.acm.org/doi/abs/10.1145/3696410.3714894)]
+  * Attacks and Defenses in Model Copyright [[WWW'2025](https://dl.acm.org/doi/abs/10.1145/3696410.3714894)]
+  * Attacks and Defenses in Data Privacy
   * Large Multi-Modal Models' Security, Privacy, and Safety
