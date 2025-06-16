@@ -1,9 +1,19 @@
 # Publications 
 ([⋅]* is the corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM WWW 2025</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS 2025</div><img src='images/TIFS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[ProVFL: Property Inference Attacks against Vertical Federated Learning]() <br />
+Li Bai, **Xinwei Zhang**, Sen Zhang, Qingqing Ye, Haibo Hu* <br />
+_IEEE Transactions on Information Forensics and Security, 2025.<br />
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM WWW 2025</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 **Xinwei Zhang**, Haibo Hu*, Qingqing Ye, Li Bai, Huadi Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
