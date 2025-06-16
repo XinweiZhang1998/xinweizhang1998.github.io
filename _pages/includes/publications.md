@@ -1,7 +1,7 @@
 # Publications 
 ([⋅]* is the corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS 2025</div><img src='images/TIFS2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS 2025</div><img src='images/TIFS25_ProVFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ProVFL: Property Inference Attacks against Vertical Federated Learning]() <br />
