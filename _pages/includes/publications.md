@@ -7,6 +7,7 @@
 - [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) <br />
 Li Bai, **Xinwei Zhang**, Sen Zhang, Qingqing Ye, Haibo Hu* <br />
 _IEEE Transactions on Information Forensics and Security (TIFS)_, 2025.<br />
+[[Code](https://github.com/BaiLibl/ProVFL)]
 
 </div>
 </div>
