@@ -26,7 +26,7 @@
 - ACM Student Member.
 - Journal/Conference reviewer:
   - ACM WWW, ACM MM, IEEE INFOCOM, ICDCS, VTC, etc
-  - IEEE Transactions on Information Forensics & Security (TIFS), IEEE Transactions on Wireless Communication (TWC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IoT-J), International Journal of Information Security, IEEE Systems Journal, etc
+  - IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Wireless Communication (TWC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IoT-J), International Journal of Information Security, IEEE Systems Journal, etc
  
 # Visitors
 <a href='https://clustrmaps.com/site/1c5hr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616'/></a>
