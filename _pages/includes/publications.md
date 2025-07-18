@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS 2025</div><img src="images/TIFS25_ProVFL.png" alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) ![AI Privacy](https://img.shields.io/badge/AI_Privacy-01847c?style=flat-square)<br />
+- [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) ![AI Privacy](https://img.shields.io/badge/AI_Privacy-01847c?style=flat-square) ![CCF A](https://img.shields.io/badge/CCF-A-E8464E?style=flat-square)<br />
 Li Bai, **Xinwei Zhang**, Sen Zhang, Qingqing Ye, Haibo Hu* <br />
 _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6529-6543, 2025.<br />
 [[Code](https://github.com/BaiLibl/ProVFL)] [<a href="https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf" target="_blank">PDF</a>]
@@ -15,7 +15,7 @@ _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM WWW 2025</div><img src='images/WWW2025.png' alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) ![AI Security](https://img.shields.io/badge/AI_Security-F10100?style=flat-square) <br />
+- [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) ![AI Security](https://img.shields.io/badge/AI_Security-EF504F?style=flat-square) ![CCF A](https://img.shields.io/badge/CCF-A-E8464E?style=flat-square) <br />
 **Xinwei Zhang**, Haibo Hu*, Qingqing Ye, Li Bai, Huadi Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
 [[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF</a>]
@@ -26,7 +26,7 @@ _In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2024</div><img src='images/TVT2024.png' alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494) ![Pysical Layer Security](https://img.shields.io/badge/Pysical_Layer_Security-015697?style=flat-square)<br /> 
+- [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494) ![Pysical Layer Security](https://img.shields.io/badge/Pysical_Layer_Security-015697?style=flat-square) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-E8464E?style=flat-square)<br /> 
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
 _IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.
 
@@ -36,7 +36,7 @@ _IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-101
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT-J 2022</div><img src='images/IoTJ2022.png' alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766) ![Pysical Layer Security](https://img.shields.io/badge/Pysical_Layer_Security-015697?style=flat-square) <br />
+- [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766) ![Pysical Layer Security](https://img.shields.io/badge/Pysical_Layer_Security-015697?style=flat-square) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-E8464E?style=flat-square) <br />
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao <br />
 _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022. <br />
 [[code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
