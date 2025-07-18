@@ -25,7 +25,7 @@
 - IEEE Student Member.
 - ACM Student Member.
 - Journal/Conference reviewer:
-  - The Annual Conference on Neural Information Processing Systems (NeurIPS)
+  - The Conference on Neural Information Processing Systems (NeurIPS)
   - ACM Web Conference (WWW)
   - ACM International Conference on Multimedia (MM)
   - IEEE INFOCOM
