@@ -1,4 +1,5 @@
 # News
+- *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
 - *2025.06*: Our paper, **ProVFL: Property Inference Attacks against Vertical Federated Learning**, is accepted by IEEE Transactions on Information Forensics and Security.
 - *2025.01*: Our paper, **MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**, is accepted by The ACM Web Conference (WWW) 2025.
 - *2024.02*: Our paper, **Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**, is accepted by IEEE Transactions on Vehicular Technology.
