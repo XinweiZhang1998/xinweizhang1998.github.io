@@ -1,4 +1,4 @@
-# Publications 
+# Selected Publications 
 ([⋅]* is the corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS 2025</div><img src="images/TIFS25_ProVFL.png" alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
@@ -43,7 +43,7 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
 
 </div>
 </div>
-
+<!--
 - [**A Secure and Reliable Blockchain-based Audit Log System**](https://ieeexplore.ieee.org/document/10623012)  ![Blockchain](https://img.shields.io/badge/Blockchain-F98919?style=flat-square)<br />
 Zhonghao Liu, **Xinwei Zhang**, Guyue Li, Helei Cui, Jiaheng Wang, Bin Xiao* <br />
 _In Proc. IEEE International Conference on Communications (ICC)_, 2024.
@@ -59,6 +59,7 @@ _In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC)_, 2021.
 - [**Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**](https://ieeexplore.ieee.org/document/9484457) ![Pysical Layer Security](https://img.shields.io/badge/Pysical_Layer_Security-015697?style=flat-square) <br />
  Zongyue Hou and **Xinwei Zhang*** <br />
 _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. 
+-->
 
 # Other Publications
 - [Patent] 李古月；**张鑫伟**；侯宗越；王星宇，一种基于深度学习的频分双工系统密钥生成方法，已授权，2022/11/18，CN112906035B.
