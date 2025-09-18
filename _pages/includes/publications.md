@@ -8,6 +8,9 @@
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu <br />
 _In Proc. NeurIPS_, 2025.<br />
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS 2025</div><img src="images/TIFS25_ProVFL.png" alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
 <div class='paper-box-text' markdown="1">
 
