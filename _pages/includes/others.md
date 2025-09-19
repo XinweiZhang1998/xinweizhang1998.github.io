@@ -32,6 +32,7 @@
   - ACM International Conference on Multimedia (MM)
   - IEEE INFOCOM
   - IEEE ICDCS
+  - IEEE Journal on Selected Areas in Communications (J-SAC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Transactions on Vehicular Technology (TVT)
