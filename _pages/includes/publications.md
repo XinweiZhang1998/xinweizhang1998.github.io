@@ -4,9 +4,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src="images/NIPS25.png" alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts** ![AI Privacy](https://img.shields.io/badge/AI_Privacy-01847c?style=flat-square) ![CCF A](https://img.shields.io/badge/CCF-A-E8464E?style=flat-square)<br />
+- [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://neurips.cc/virtual/2025/poster/117180) ![AI Privacy](https://img.shields.io/badge/AI_Privacy-01847c?style=flat-square) ![CCF A](https://img.shields.io/badge/CCF-A-E8464E?style=flat-square)<br />
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu <br />
 _In Proc. NeurIPS_, 2025.<br />
+[[Code](https://github.com/BaiLibl/ShadowPool)]
 
 </div>
 </div>
