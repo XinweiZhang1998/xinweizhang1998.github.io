@@ -1,4 +1,5 @@
 # News
+- *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by Usenix Security 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
 - *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
 - *2025.06*: Our paper, **ProVFL: Property Inference Attacks against Vertical Federated Learning**, is accepted by IEEE Transactions on Information Forensics and Security.
