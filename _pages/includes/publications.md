@@ -38,7 +38,7 @@ _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6
 
 - [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) ![AI Security](https://img.shields.io/badge/AI_Security-EF504F?style=flat-square) ![CCF A](https://img.shields.io/badge/CCF-A-E8464E?style=flat-square) <br />
 **Xinwei Zhang**, Haibo Hu*, Qingqing Ye, Li Bai, Huadi Zheng <br />
-_In Proc. The ACM Web Conference (WWW)_, 2025. (Acceptance rate=19.8%) <br />
+_In Proc. The ACM Web Conference (WWW)_, 2025. <br />
 [[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF</a>]
 
 <!-- </div>
