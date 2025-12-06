@@ -4,7 +4,7 @@
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX SECURITY 2026</div><img src="images/Sex26.png" alt="sym" style="width:350px !important; height:200px !important; object-fit:contain !important;"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- [**United We Defend: Collaborative Membership Inference Defenses in Federated Learning**]() <br />
+- **United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
 _In Proc. USENIX Security_, 2026.<br />
 
