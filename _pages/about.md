@@ -12,8 +12,8 @@ redirect_from:
 
 # About Me
 
-I am a PhD student with [the Department of Electrical and Electronic Engineering (EEE)](https://www.polyu.edu.hk/eie/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Haibo Hu](http://www.haibohu.org/) ([ASTAPLE](http://www.astaple.com/)) and a visiting PhD student with [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). I received the Master's degree in computer technology with [the School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022, under the supervision of [Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue). From April 2021 to September 2021, I worked as a Research Assistant with the Department of Computing, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
-
+I am a PhD student with [the Department of Electrical and Electronic Engineering (EEE)](https://www.polyu.edu.hk/eie/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Haibo Hu](http://www.haibohu.org/) ([ASTAPLE](http://www.astaple.com/)) and a visiting PhD student with [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). I received the Master's degree in computer technology with [the School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022, under the supervision of [Prof. Guyue Li](https://guyuelee.github.io/blog.github.io/
+). From April 2021 to September 2021, I worked as a Research Assistant with the Department of Computing, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
 Feel free to drop me an email if you want to collaborate or have a discussion!
 
 # Research interests
@@ -108,7 +108,7 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
 
 - *Dec. 2025- Aug. 2026*, Visiting Ph.D., Nanyang Technological University, Supervisor: [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 - *Sep. 2023- Aug. 2026 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
-- *Sep. 2019- June 2022*, Master of Engineering, Computer Technology, Southeast University, Supervisor: [Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB](https://sunyl1123.github.io/6102laboratory.github.io/)). (Outstanding Graduates)
+- *Sep. 2019- June 2022*, Master of Engineering, Computer Technology, Southeast University, Supervisor: [Prof. Guyue Li](https://guyuelee.github.io/blog.github.io/). (Outstanding Graduates)
 
 <!--  - *Sep. 2014- July 2018*, Bachelor, Computer Science and Technology, Henan University of Technology. (Outstanding Graduates) -->
 
