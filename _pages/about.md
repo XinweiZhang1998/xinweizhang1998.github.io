@@ -25,18 +25,6 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; Usenix Security'26
   - Large Multi-Modal Models' Security, Privacy, and Safety
 
-# Honors and Awards
-
-- Research Student Attachment Programme, PolyU, 2025. (HKD 55,000)
-- International Collaborative Research Fellowship, PolyU, 2025. (HKD 55,000)
-- Excellent Master Dissertation Award of Jiangsu Province, 2023.
-- Excellent Master Dissertation Award of Southeast University, 2023.
-- Outstanding Master's Graduate, 2022.
-- **National Scholarship**, 2021. (CNY 20,000)
-- Third prize of "National Big Data Creativity and Practice Competition of Electromagnetic Environment", 2020. (CNY 10,000)
-- Outstanding Graduates, 2018.
-- University Scholarship, 2016. (CNY 1,000)
-
 # News
 
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by Usenix Security 2026.
@@ -59,44 +47,6 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 </ul>
 </details>
 
-# Educations
-
-- *Dec. 2025- Aug. 2026*, Visiting Ph.D., Nanyang Technological University, Supervisor: [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
-- *Sep. 2023- Aug. 2026 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
-- *Sep. 2019- June 2022*, Master of Engineering, Computer Technology, Southeast University, Supervisor: [Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB](https://sunyl1123.github.io/6102laboratory.github.io/)). (Outstanding Graduates)
-
-<!--  - *Sep. 2014- July 2018*, Bachelor, Computer Science and Technology, Henan University of Technology. (Outstanding Graduates) -->
-
-# Experiences
-
-- Teaching Assistant:
-  - 2023-Fall: EIE3117 Integrated Project
-  - 2024-Spring: EIE4118 Intrusion Detection and Penetration Test
-  - 2024-Fall: EIE3117 Integrated Project
-  - 2025-Spring: EIE3117 Integrated Project
-
-- *May 2023- Aug. 2023*, Research Assistant, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
-- *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://harrycui.github.io/).
-- *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
-
-# Professional Activities
-
-- IEEE Student Member.
-- ACM Student Member.
-- Journal/Conference reviewer:
-  - The Conference on Neural Information Processing Systems (NeurIPS)
-  - ACM Web Conference (WWW)
-  - ACM International Conference on Multimedia (MM)
-  - IEEE INFOCOM
-  - IEEE ICDCS
-  - IEEE Journal on Selected Areas in Communications (J-SAC)
-  - IEEE Transactions on Information Forensics and Security (TIFS)
-  - IEEE Transactions on Wireless Communication (TWC)
-  - IEEE Transactions on Vehicular Technology (TVT)
-  - IEEE Internet of Things Journal (IoT-J)
-  - International Journal of Information Security
-  - IEEE Systems Journal
-  - etc.
 
 
 # Publications
@@ -138,6 +88,58 @@ _In Proc. IEEE International Conference on Communications (ICC)_, 2023.
 _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022. <br />
 [[code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
 
+# Honors and Awards
+
+- Research Student Attachment Programme, PolyU, 2025. (HKD 55,000)
+- International Collaborative Research Fellowship, PolyU, 2025. (HKD 55,000)
+- Excellent Master Dissertation Award of Jiangsu Province, 2023.
+- Excellent Master Dissertation Award of Southeast University, 2023.
+- Outstanding Master's Graduate, 2022.
+- **National Scholarship**, 2021. (CNY 20,000)
+- Third prize of "National Big Data Creativity and Practice Competition of Electromagnetic Environment", 2020. (CNY 10,000)
+- Outstanding Graduates, 2018.
+- University Scholarship, 2016. (CNY 1,000)
+
+
+# Educations
+
+- *Dec. 2025- Aug. 2026*, Visiting Ph.D., Nanyang Technological University, Supervisor: [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
+- *Sep. 2023- Aug. 2026 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
+- *Sep. 2019- June 2022*, Master of Engineering, Computer Technology, Southeast University, Supervisor: [Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB](https://sunyl1123.github.io/6102laboratory.github.io/)). (Outstanding Graduates)
+
+<!--  - *Sep. 2014- July 2018*, Bachelor, Computer Science and Technology, Henan University of Technology. (Outstanding Graduates) -->
+
+# Experiences
+
+- Teaching Assistant:
+  - 2023-Fall: EIE3117 Integrated Project
+  - 2024-Spring: EIE4118 Intrusion Detection and Penetration Test
+  - 2024-Fall: EIE3117 Integrated Project
+  - 2025-Spring: EIE3117 Integrated Project
+
+- *May 2023- Aug. 2023*, Research Assistant, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
+- *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://harrycui.github.io/).
+- *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
+
+# Professional Activities
+
+- IEEE Student Member.
+- ACM Student Member.
+- Journal/Conference reviewer:
+  - The Conference on Neural Information Processing Systems (NeurIPS)
+  - ACM Web Conference (WWW)
+  - ACM International Conference on Multimedia (MM)
+  - IEEE INFOCOM
+  - IEEE ICDCS
+  - IEEE Journal on Selected Areas in Communications (J-SAC)
+  - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Wireless Communication (TWC)
+  - IEEE Transactions on Vehicular Technology (TVT)
+  - IEEE Internet of Things Journal (IoT-J)
+  - International Journal of Information Security
+  - IEEE Systems Journal
+  - etc.
+  - 
 # Visitors
 
 <a href='https://clustrmaps.com/site/1c5hr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616'/></a>
