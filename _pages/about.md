@@ -25,6 +25,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; Usenix Security'26
   - Large Multi-Modal Models' Security, Privacy, and Safety
 
+<span class='anchor' id='news'></span>
 # News
 
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by Usenix Security 2026.
@@ -48,7 +49,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 </details>
 
 
-
+<span class='anchor' id='publications'></span>
 # Publications
 ([⋅]* is the corresponding author)
 
@@ -88,6 +89,8 @@ _In Proc. IEEE International Conference on Communications (ICC)_, 2023.
 _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022. <br />
 [[code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
 
+
+<span class='anchor' id='honors-and-awards'></span>
 # Honors and Awards
 
 - Research Student Attachment Programme, PolyU, 2025. (HKD 55,000)
@@ -100,7 +103,7 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
 - Outstanding Graduates, 2018.
 - University Scholarship, 2016. (CNY 1,000)
 
-
+<span class='anchor' id='educations'></span>
 # Educations
 
 - *Dec. 2025- Aug. 2026*, Visiting Ph.D., Nanyang Technological University, Supervisor: [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
@@ -109,6 +112,7 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
 
 <!--  - *Sep. 2014- July 2018*, Bachelor, Computer Science and Technology, Henan University of Technology. (Outstanding Graduates) -->
 
+<span class='anchor' id='experiences'></span>
 # Experiences
 
 - Teaching Assistant:
@@ -121,6 +125,8 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
 - *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://harrycui.github.io/).
 - *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
 
+
+<span class='anchor' id='professional-activities'></span>
 # Professional Activities
 
 - IEEE Student Member.
