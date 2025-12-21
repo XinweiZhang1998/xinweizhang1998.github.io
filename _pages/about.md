@@ -26,7 +26,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   - Large Multi-Modal Models' Security, Privacy, and Safety
 
 <span class='anchor' id='news'></span>
-# News
+# 🔥 News
 
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by Usenix Security 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
@@ -50,7 +50,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 
 <span class='anchor' id='publications'></span>
-# Publications
+# 📖 Publications
 ([⋅]* is the corresponding author)
 
 - **United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
@@ -115,12 +115,6 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
 <span class='anchor' id='experiences'></span>
 # Experiences
 
-- Teaching Assistant:
-  - 2023-Fall: EIE3117 Integrated Project
-  - 2024-Spring: EIE4118 Intrusion Detection and Penetration Test
-  - 2024-Fall: EIE3117 Integrated Project
-  - 2025-Spring: EIE3117 Integrated Project
-
 - *May 2023- Aug. 2023*, Research Assistant, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
 - *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://harrycui.github.io/).
 - *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
@@ -145,7 +139,7 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
   - International Journal of Information Security
   - IEEE Systems Journal
   - etc.
-  - 
+    
 # Visitors
 
 <a href='https://clustrmaps.com/site/1c5hr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616'/></a>
