@@ -89,6 +89,16 @@ _In Proc. IEEE International Conference on Communications (ICC)_, 2023.
 _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022. <br />
 [[code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
 
+- [**Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network**](https://ieeexplore.ieee.org/document/9625252)  <br />
+**Xinwei Zhang**, Guyue Li*, Zongyue Hou and Aiqun Hu <br />
+_In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC)_, 2021.
+  
+- [**Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**](https://ieeexplore.ieee.org/document/9484457)  <br />
+ Zongyue Hou and **Xinwei Zhang*** <br />
+_In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. 
+
+## Other Publications
+- [China Patent] 李古月；**张鑫伟**；侯宗越；王星宇，一种基于深度学习的频分双工系统密钥生成方法，已授权，2022/11/18，CN112906035B.
 
 <span class='anchor' id='honors-and-awards'></span>
 # Honors and Awards
