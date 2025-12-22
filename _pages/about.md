@@ -59,7 +59,7 @@ _In Proc. USENIX Security_, 2026.<br />
 
 - [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://neurips.cc/virtual/2025/poster/117180) <br />
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu* <br />
-_In Proc. NeurIPS_, 2025.<br />
+_In Proc. Neural Information Processing Systems (NeurIPS)_, December, 2025.<br />
 [[Code](https://github.com/BaiLibl/ShadowPool)] [<a href="https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf" target="_blank">PDF</a>]
 
 - [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) <br />
