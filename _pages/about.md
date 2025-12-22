@@ -22,7 +22,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 - Blockchain: [[ICC'2023](https://ieeexplore.ieee.org/document/10279692)], [[ICC'24](https://ieeexplore.ieee.org/document/10623012)]
 - **Trustworthy machine learning (Currently focused on)**
   - Model Copyright: [[WWW'25](https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf)]
-  - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; Usenix Security'26
+  - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [Usenix Security'26]
   - Large Multi-Modal Models' Security, Privacy, and Safety
 
 <span class='anchor' id='news'></span>
