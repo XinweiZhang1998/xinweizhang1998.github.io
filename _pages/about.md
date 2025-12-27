@@ -135,10 +135,10 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
 
 - IEEE Student Member.
 - ACM Student Member.
-- Journal/Conference reviewer:
-  - The Conference on Neural Information Processing Systems (NeurIPS)
-  - ACM Web Conference (WWW)
-  - ACM International Conference on Multimedia (MM)
+- Reviewer/ Programme Chair:
+  - The Conference on Neural Information Processing Systems (NeurIPS) 2025
+  - ACM Web Conference (WWW) 2025,2026
+  - ACM International Conference on Multimedia (MM) 2025
   - IEEE INFOCOM
   - IEEE ICDCS
   - IEEE Journal on Selected Areas in Communications (J-SAC)
