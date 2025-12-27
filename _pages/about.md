@@ -57,7 +57,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
 _In Proc. USENIX Security_, 2026.<br />
 
-- [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://neurips.cc/virtual/2025/poster/117180) <br />
+- [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu* <br />
 _In Proc. Neural Information Processing Systems (NeurIPS)_, December, 2025.<br />
 [[Code](https://github.com/BaiLibl/ShadowPool)] [<a href="https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf" target="_blank">PDF</a>]
