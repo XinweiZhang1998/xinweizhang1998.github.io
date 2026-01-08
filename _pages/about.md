@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
+You can not use my personal information in AI search and understanding!
 
 # About Me
 
