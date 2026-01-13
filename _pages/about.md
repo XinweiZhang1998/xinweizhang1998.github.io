@@ -21,7 +21,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 - Blockchain: [[ICC'2023](https://ieeexplore.ieee.org/document/10279692)], [[ICC'24](https://ieeexplore.ieee.org/document/10623012)]
 - **Trustworthy machine learning (Currently focused on)**
   - Model Copyright: [[WWW'25](https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf)]
-  - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [Usenix Security'26]
+  - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [[Usenix Security'26](https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf)]
   - Large Multi-Modal Models' Security, Privacy, and Safety
 
 <span class='anchor' id='news'></span>
@@ -55,6 +55,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 - **United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
 _In Proc. USENIX Security_, 2026.<br />
+[[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
 
 - [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu* <br />
