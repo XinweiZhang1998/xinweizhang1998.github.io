@@ -27,7 +27,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security 2026.
+- *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security Symposium 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
 - *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
 - *2025.06*: Our paper, **ProVFL: Property Inference Attacks against Vertical Federated Learning**, is accepted by IEEE Transactions on Information Forensics and Security.
@@ -54,7 +54,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 - **United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
-_In Proc. USENIX Security_, 2026.<br />
+_In Proc. USENIX Security Symposium_, 2026.<br />
 [[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
 
 - [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
@@ -136,9 +136,10 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
 - IEEE Student Member.
 - ACM Student Member.
 - Reviewer/ Programme Chair:
-  - The Conference on Neural Information Processing Systems (NeurIPS) 2025
-  - ACM Web Conference (WWW) 2025,2026
-  - ACM International Conference on Multimedia (MM) 2025
+  - International Conference on Machine Learning (ICML) 2026
+  - Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
+  - ACM Web Conference (ACM WWW) 2025; 2026
+  - ACM International Conference on Multimedia (ACM MM) 2025
   - IEEE INFOCOM
   - IEEE ICDCS
   - IEEE Journal on Selected Areas in Communications (J-SAC)
