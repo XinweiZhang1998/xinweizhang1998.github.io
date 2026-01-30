@@ -51,7 +51,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 <span class='anchor' id='publications'></span>
 # 📖 Publications
 ([⋅]* is the corresponding author)
-- **[Preprint][On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
+- **[Preprint] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
 _Arxiv_, 2026.<br />
 **Xinwei Zhang**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu <br />
 
