@@ -141,6 +141,7 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
 - ACM Student Member.
 - Reviewer/ Programme Chair:
   - International Conference on Machine Learning (ICML) 2026
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
   - Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
   - ACM Web Conference (ACM WWW) 2025; 2026
   - ACM International Conference on Multimedia (ACM MM) 2025
