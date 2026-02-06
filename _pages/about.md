@@ -60,7 +60,7 @@ Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
 _In Proc. USENIX Security Symposium_, 2026.<br />
 [[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
 
-- **[NeurIPS'26]** [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
+- **[NeurIPS'25]** [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu* <br />
 _In Proc. Neural Information Processing Systems (NeurIPS)_, December, 2025.<br />
 [[Code](https://github.com/BaiLibl/ShadowPool)] [<a href="https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf" target="_blank">PDF</a>]
@@ -142,10 +142,8 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
   - International Conference on Machine Learning (ICML) 2026
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
   - Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
-  - ACM Web Conference (ACM WWW) 2025; 2026
-  - ACM International Conference on Multimedia (ACM MM) 2025
-  - IEEE INFOCOM
-  - IEEE ICDCS
+  - ACM Web Conference (WWW) 2025; 2026
+  - ACM International Conference on Multimedia (MM) 2025
   - IEEE Journal on Selected Areas in Communications (J-SAC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Wireless Communication (TWC)
