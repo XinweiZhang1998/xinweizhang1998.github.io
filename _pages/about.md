@@ -26,7 +26,6 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.02*: We’ve released [Awesome-VLA-Security](https://github.com/XinweiZhang1998/Awesome-VLA-Security)! A continuously updated, curated list of papers on VLA models’ security. 
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security Symposium 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
 - *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
@@ -56,48 +55,48 @@ _Arxiv_, 2026.<br />
 **Xinwei Zhang**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu <br />
 
 
-- **United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
+- **[USENIX SEC'26] United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
 _In Proc. USENIX Security Symposium_, 2026.<br />
 [[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
 
-- [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
+- **[NeurIPS'26]** [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu* <br />
 _In Proc. Neural Information Processing Systems (NeurIPS)_, December, 2025.<br />
 [[Code](https://github.com/BaiLibl/ShadowPool)] [<a href="https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf" target="_blank">PDF</a>]
 
-- [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) <br />
+- **[TIFS'25]** [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) <br />
 Li Bai, **Xinwei Zhang**, Sen Zhang, Qingqing Ye, Haibo Hu* <br />
 _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6529-6543, 2025.<br />
 [[Code](https://github.com/BaiLibl/ProVFL)] [<a href="https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf" target="_blank">PDF</a>]
 
-- [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
+- **[WWW'25]** [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 **Xinwei Zhang**, Haibo Hu*, Qingqing Ye, Li Bai, Huadi Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025. <br />
 [[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF</a>]
 
-- [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494)<br /> 
+- **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494)<br /> 
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
 _IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.
 
-- [**A Secure and Reliable Blockchain-based Audit Log System**](https://ieeexplore.ieee.org/document/10623012) <br />
+- **[ICC'24]** [**A Secure and Reliable Blockchain-based Audit Log System**](https://ieeexplore.ieee.org/document/10623012) <br />
 Zhonghao Liu, **Xinwei Zhang**, Guyue Li, Helei Cui, Jiaheng Wang, Bin Xiao* <br />
 _In Proc. IEEE International Conference on Communications (ICC)_, 2024.
 
-- [**DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System**](https://ieeexplore.ieee.org/document/10279692)  <br />
+- **[ICC'23]** [**DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System**](https://ieeexplore.ieee.org/document/10279692)  <br />
 Zhonghao Liu, **Xinwei Zhang**, Laphou Lao, Guyue Li, Bin Xiao* <br />
 _In Proc. IEEE International Conference on Communications (ICC)_, 2023.
 
-- [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766)  <br />
+- **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766)  <br />
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao <br />
 _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022. <br />
 [[code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
 
-- [**Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network**](https://ieeexplore.ieee.org/document/9625252)  <br />
+- **[VTC'21]** [**Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network**](https://ieeexplore.ieee.org/document/9625252)  <br />
 **Xinwei Zhang**, Guyue Li*, Zongyue Hou and Aiqun Hu <br />
 _In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC)_, 2021.
   
-- [**Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**](https://ieeexplore.ieee.org/document/9484457)  <br />
+- **[INFOCOM-W'21]** [**Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**](https://ieeexplore.ieee.org/document/9484457)  <br />
  Zongyue Hou and **Xinwei Zhang*** <br />
 _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. 
 
