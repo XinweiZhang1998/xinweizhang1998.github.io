@@ -54,6 +54,9 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 _Arxiv_, 2026.<br />
 **Xinwei Zhang**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu <br />
 
+- **[Preprint] [Understanding and Enhancing Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
+_Arxiv_, 2026.<br />
+**Xinwei Zhang**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu <br />
 
 - **[USENIX SEC'26] United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
