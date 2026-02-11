@@ -58,6 +58,8 @@ _Arxiv_, 2026.<br />
 _Arxiv_, 2026.<br />
 **Xinwei Zhang**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu <br />
 
+---
+
 - **[USENIX SEC'26] United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
 _In Proc. USENIX Security Symposium_, 2026.<br />
