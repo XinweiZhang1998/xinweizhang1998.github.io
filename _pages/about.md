@@ -148,7 +148,7 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
   - Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
   - ACM Web Conference (WWW) 2025; 2026
-  - ACM International Conference on Multimedia (MM) 2025
+  - ACM International Conference on Multimedia (MM) 2025; 2026
   - IEEE Journal on Selected Areas in Communications (J-SAC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Wireless Communication (TWC)
