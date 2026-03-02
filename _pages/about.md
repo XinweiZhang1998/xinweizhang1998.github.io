@@ -18,7 +18,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 # Research Interests
 
 - Physical-layer security, especially secret key generation: [[IoT-J'22](https://ieeexplore.ieee.org/document/9526766)], [[TVT'24](https://ieeexplore.ieee.org/document/10440494)]
-- Blockchain: [[ICC'2023](https://ieeexplore.ieee.org/document/10279692)], [[ICC'24](https://ieeexplore.ieee.org/document/10623012)]
+- Blockchain: [[ICC'23](https://ieeexplore.ieee.org/document/10279692)], [[ICC'24](https://ieeexplore.ieee.org/document/10623012)]
 - **Trustworthy machine learning (Currently focused on)**
   - Model Copyright: [[WWW'25](https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf)]
   - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [[Usenix Security'26](https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf)]
