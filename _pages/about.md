@@ -26,6 +26,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.03*: Our paper, **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection**, is accepted by IEEE Transactions on Dependable and Secure Computing.
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security Symposium 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
 - *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
@@ -59,6 +60,9 @@ _Arxiv_, 2026.<br />
 **Xinwei Zhang**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu <br />
 
 ---
+- **[TDSC'26]** **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection** <br />
+Siyi Xiao, Lejun Zhang, **Xinwei Zhang**, Sen Zhang, Shen Su, Jing Qiu, Ran Guo, Haibo Hu <br />
+_IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.<br />
 
 - **[USENIX SEC'26] United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
