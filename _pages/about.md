@@ -52,12 +52,12 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 # 📖 Publications
 ([⋅]* is the corresponding author)
 - **[Preprint] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
-_Arxiv_, 2026.<br />
 **Xinwei Zhang**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu <br />
+_Arxiv_, 2026.<br />
 
 - **[Preprint] [Understanding and Enhancing Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
-_Arxiv_, 2026.<br />
 **Xinwei Zhang**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu <br />
+_Arxiv_, 2026.<br />
 
 ---
 - **[TDSC'26]** **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection** <br />
