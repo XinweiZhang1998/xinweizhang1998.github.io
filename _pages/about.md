@@ -60,7 +60,7 @@ _Arxiv_, 2026.<br />
 _Arxiv_, 2026.<br />
 
 ---
-- **[TDSC'26]** **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection** <br />
+- **[TDSC'26]** **[A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection](https://ieeexplore.ieee.org/document/11435482)** <br />
 Siyi Xiao, Lejun Zhang*, **Xinwei Zhang**, Sen Zhang, Shen Su, Jing Qiu, Ran Guo, Haibo Hu <br />
 _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.<br />
 
