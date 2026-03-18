@@ -27,7 +27,10 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.03*: Our paper, **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection**, is accepted by IEEE Transactions on Dependable and Secure Computing.
+- *2026.02*: Invited to serve as the PC member of ACM MM '26.
+- *2026.01*: Invited to serve as the Reviewer of ICML '26.
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security Symposium 2026.
+- *2025.11*: Invited to serve as the PC member of ACM WWW '26.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
 - *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
 - *2025.06*: Our paper, **ProVFL: Property Inference Attacks against Vertical Federated Learning**, is accepted by IEEE Transactions on Information Forensics and Security.
