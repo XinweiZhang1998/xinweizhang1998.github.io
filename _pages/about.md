@@ -63,6 +63,7 @@ _Arxiv_, 2026.<br />
 - **[TDSC'26]** **[A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection](https://ieeexplore.ieee.org/document/11435482)** <br />
 Siyi Xiao, Lejun Zhang*, **Xinwei Zhang**, Sen Zhang, Shen Su, Jing Qiu, Ran Guo, Haibo Hu <br />
 _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.<br />
+[<a href="https://xinweizhang1998.github.io/_pages/File/TDSC26_GraphFlowGen.pdf" target="_blank">PDF</a>]
 
 - **[USENIX SEC'26] United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
