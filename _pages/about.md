@@ -93,7 +93,7 @@ _In Proc. The ACM Web Conference (WWW)_, 2025.![A](https://img.shields.io/badge/
 
 - **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494)<br /> 
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
-_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.
+_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.![Q1](https://img.shields.io/badge/JCR-Q1-red)
 
 - **[ICC'24]** [**A Secure and Reliable Blockchain-based Audit Log System**](https://ieeexplore.ieee.org/document/10623012) <br />
 Zhonghao Liu, **Xinwei Zhang**, Guyue Li, Helei Cui, Jiaheng Wang, Bin Xiao* <br />
@@ -105,7 +105,7 @@ _In Proc. IEEE International Conference on Communications (ICC)_, 2023.
 
 - **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766)  <br />
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao <br />
-_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022. <br />
+_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022.![Q1](https://img.shields.io/badge/JCR-Q1-red) <br />
 [[Code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
 
 - **[VTC'21]** [**Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network**](https://ieeexplore.ieee.org/document/9625252)  <br />
