@@ -66,6 +66,7 @@ _Arxiv_, 2026.<br />
 _Arxiv_, 2026.<br />
 
 ---
+**2026**
 - **[TDSC'26]** **[A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection](https://ieeexplore.ieee.org/document/11435482)** <br />
 Siyi Xiao, Lejun Zhang*, **Xinwei Zhang**, Sen Zhang, Shen Su, Jing Qiu, Ran Guo, Haibo Hu <br />
 _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
@@ -75,6 +76,8 @@ _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.![A](https:/
 Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
 _In Proc. USENIX Security Symposium_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
+
+**2025**
 
 - **[NeurIPS'25]** [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
 Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu* <br />
@@ -90,6 +93,8 @@ _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6
 **Xinwei Zhang**, Haibo Hu*, Qingqing Ye, Li Bai, Huadi Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025.![A](https://img.shields.io/badge/CCF-A-red) <br />
 [[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF</a>]
+
+**2024 and Before**
 
 - **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494)<br /> 
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
