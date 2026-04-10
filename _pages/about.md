@@ -52,6 +52,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 # 📖 Publications
 ([⋅]* is the corresponding author)
 
+**Preprint**
 - **[Preprint] [IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
 Linyan Dai, **Xinwei Zhang**, Haoyang Li, Qingqing Ye, Haibo Hu* <br />
 _Arxiv_, 2026.<br />
