@@ -103,11 +103,11 @@ _IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-101
 
 - **[ICC'24]** [**A Secure and Reliable Blockchain-based Audit Log System**](https://ieeexplore.ieee.org/document/10623012) <br />
 Zhonghao Liu, **Xinwei Zhang**, Guyue Li, Helei Cui, Jiaheng Wang, Bin Xiao* <br />
-_In Proc. IEEE International Conference on Communications (ICC)_, 2024.
+_In Proc. IEEE International Conference on Communications (ICC)_, 2024.![C](https://img.shields.io/badge/CCF-C-blue)
 
 - **[ICC'23]** [**DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System**](https://ieeexplore.ieee.org/document/10279692)  <br />
 Zhonghao Liu, **Xinwei Zhang**, Laphou Lao, Guyue Li, Bin Xiao* <br />
-_In Proc. IEEE International Conference on Communications (ICC)_, 2023.
+_In Proc. IEEE International Conference on Communications (ICC)_, 2023.![C](https://img.shields.io/badge/CCF-C-blue)
 
 - **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766)  <br />
 **Xinwei Zhang**, Guyue Li*, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao <br />
@@ -120,7 +120,7 @@ _In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC)_, 2021.
   
 - **[INFOCOM-W'21]** [**Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**](https://ieeexplore.ieee.org/document/9484457)  <br />
  Zongyue Hou and **Xinwei Zhang*** <br />
-_In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. 
+_In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. ![A](https://img.shields.io/badge/CCF-A'Workshop-red)
 
 ## Other Publications
 - [China Patent] 李古月；**张鑫伟**；侯宗越；王星宇，一种基于深度学习的频分双工系统密钥生成方法，已授权，2022/11/18，CN112906035B.
