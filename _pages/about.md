@@ -141,8 +141,8 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
 <span class='anchor' id='educations'></span>
 # Educations
 
-- *Dec. 2025- Aug. 2026*, Visiting Ph.D., Nanyang Technological University, Supervisor: [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 - *Sep. 2023- Aug. 2026 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://haibohu.org/).
+- *Dec. 2025- Aug. 2026*, Visiting Ph.D. Student, Nanyang Technological University, Supervisor: [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 - *Sep. 2019- June 2022*, Master of Engineering, Computer Technology, Southeast University, Supervisor: [Prof. Guyue Li](https://guyuelee.github.io/blog.github.io/). (Outstanding Graduates)
 
 <!--  - *Sep. 2014- July 2018*, Bachelor, Computer Science and Technology, Henan University of Technology. (Outstanding Graduates) -->
