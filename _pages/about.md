@@ -50,76 +50,76 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 <span class='anchor' id='publications'></span>
 # 📖 Publications
-([⋅]* is the corresponding author)
+(✉️ is the corresponding author)
 
 **Preprint**
 - **[Preprint] [IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
-Linyan Dai, **Xinwei Zhang**, Haoyang Li, Qingqing Ye, Haibo Hu* <br />
+Linyan Dai, **<ins>Xinwei Zhang</ins>**, Haoyang Li, Qingqing Ye, Haibo Hu✉️ <br />
 _Arxiv_, 2026.<br />
 
 
 - **[Preprint] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
-**Xinwei Zhang**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu* <br />
+**<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu✉️  <br />
 _Arxiv_, 2026.<br />
 
 - **[Preprint] [Understanding and Enhancing Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
-**Xinwei Zhang**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu* <br />
+**<ins>Xinwei Zhang</ins>**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu✉️  <br />
 _Arxiv_, 2026.<br />
 
 ---
 **2026**
 - **[USENIX SEC'26] United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
-Li Bai, Junxu Liu, Sen Zhang, **Xinwei Zhang**, Qingqing Ye, Haibo Hu* <br />
+Li Bai, Junxu Liu, Sen Zhang, **<ins>Xinwei Zhang</ins>**, Qingqing Ye, Haibo Hu✉️  <br />
 _In Proc. USENIX Security Symposium_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
 
 - **[TDSC'26]** **[A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection](https://ieeexplore.ieee.org/document/11435482)** <br />
-Siyi Xiao, Lejun Zhang*, **Xinwei Zhang**, Sen Zhang, Shen Su, Jing Qiu, Ran Guo, Haibo Hu <br />
+Siyi Xiao, Lejun Zhang✉️ , **<ins>Xinwei Zhang</ins>**, Sen Zhang, Shen Su, Jing Qiu, Ran Guo, Haibo Hu <br />
 _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [<a href="https://xinweizhang1998.github.io/_pages/File/TDSC26_GraphFlowGen.pdf" target="_blank">PDF</a>]
 
 **2025**
 
 - **[WWW'25]** [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
-**Xinwei Zhang**, Haibo Hu*, Qingqing Ye, Li Bai, Huadi Zheng <br />
+**<ins>Xinwei Zhang</ins>**, Haibo Hu✉️ , Qingqing Ye, Li Bai, Huadi Zheng <br />
 _In Proc. The ACM Web Conference (WWW)_, 2025.![A](https://img.shields.io/badge/CCF-A-red) <br />
 [[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF</a>]
 
 - **[NeurIPS'25]** [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
-Li Bai, Qingqing Ye, **Xinwei Zhang**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu* <br />
+Li Bai, Qingqing Ye, **<ins>Xinwei Zhang</ins>**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu✉️  <br />
 _In Proc. Neural Information Processing Systems (NeurIPS)_, December, 2025.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [[Code](https://github.com/BaiLibl/ShadowPool)] [<a href="https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf" target="_blank">PDF</a>]
 
 - **[TIFS'25]** [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) <br />
-Li Bai, **Xinwei Zhang**, Sen Zhang, Qingqing Ye, Haibo Hu* <br />
+Li Bai, **<ins>Xinwei Zhang</ins>**, Sen Zhang, Qingqing Ye, Haibo Hu✉️  <br />
 _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6529-6543, 2025.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [[Code](https://github.com/BaiLibl/ProVFL)] [<a href="https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf" target="_blank">PDF</a>]
 
 **2024 and Before**
 
 - **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494)<br /> 
-**Xinwei Zhang**, Guyue Li*, Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
+**<ins>Xinwei Zhang</ins>**, Guyue Li✉️ , Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
 _IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.![Q1](https://img.shields.io/badge/JCR-Q1-red)
 
 - **[ICC'24]** [**A Secure and Reliable Blockchain-based Audit Log System**](https://ieeexplore.ieee.org/document/10623012) <br />
-Zhonghao Liu, **Xinwei Zhang**, Guyue Li, Helei Cui, Jiaheng Wang, Bin Xiao* <br />
+Zhonghao Liu, **<ins>Xinwei Zhang</ins>**, Guyue Li, Helei Cui, Jiaheng Wang, Bin Xiao✉️  <br />
 _In Proc. IEEE International Conference on Communications (ICC)_, 2024.![C](https://img.shields.io/badge/CCF-C-blue)
 
 - **[ICC'23]** [**DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System**](https://ieeexplore.ieee.org/document/10279692)  <br />
-Zhonghao Liu, **Xinwei Zhang**, Laphou Lao, Guyue Li, Bin Xiao* <br />
+Zhonghao Liu, **<ins>Xinwei Zhang</ins>**, Laphou Lao, Guyue Li, Bin Xiao✉️  <br />
 _In Proc. IEEE International Conference on Communications (ICC)_, 2023.![C](https://img.shields.io/badge/CCF-C-blue)
 
 - **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766)  <br />
-**Xinwei Zhang**, Guyue Li*, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao <br />
+**<ins>Xinwei Zhang</ins>**, Guyue Li✉️ , Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao <br />
 _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022.![Q1](https://img.shields.io/badge/JCR-Q1-red) <br />
 [[Code](https://github.com/XinweiZhang1998/Code-of-KGNet)]
 
 - **[VTC'21]** [**Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network**](https://ieeexplore.ieee.org/document/9625252)  <br />
-**Xinwei Zhang**, Guyue Li*, Zongyue Hou and Aiqun Hu <br />
+**<ins>Xinwei Zhang</ins>**, Guyue Li✉️ , Zongyue Hou and Aiqun Hu <br />
 _In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC)_, 2021.
   
 - **[INFOCOM-W'21]** [**Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**](https://ieeexplore.ieee.org/document/9484457)  <br />
- Zongyue Hou and **Xinwei Zhang*** <br />
+ Zongyue Hou and **<ins>Xinwei Zhang</ins>**✉️ <br />
 _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. ![A](https://img.shields.io/badge/CCF-A'Workshop-red)
 
 ## Other Publications
