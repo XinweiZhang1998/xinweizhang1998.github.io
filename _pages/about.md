@@ -119,7 +119,7 @@ _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2
 _In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC)_, 2021.
   
 - **[INFOCOM-W'21]** [**Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**](https://ieeexplore.ieee.org/document/9484457)  <br />
- Zongyue Hou and **<ins>Xinwei Zhang</ins>**✉️ <br />
+ Zongyue Hou and **<ins>Xinwei Zhang</ins>** ✉️ <br />
 _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. ![A](https://img.shields.io/badge/CCF-A'Workshop-red)
 
 ## Other Publications
