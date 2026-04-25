@@ -68,7 +68,7 @@ _Arxiv_, 2026.<br />
 
 ---
 **2026**
-- **[USENIX SEC'26] United We Defend: Collaborative Membership Inference Defenses in Federated Learning** <br />
+- **[USENIX SEC'26] [United We Defend: Collaborative Membership Inference Defenses in Federated Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/bai)** <br />
 Li Bai, Junxu Liu, Sen Zhang, **<ins>Xinwei Zhang</ins>**, Qingqing Ye, Haibo Hu✉️  <br />
 _In Proc. USENIX Security Symposium_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
