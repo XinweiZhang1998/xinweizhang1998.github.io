@@ -154,6 +154,10 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
 - *Sep. 2022- Dec. 2022*, Research Assistant, School of Computer Science, Northwestern Polytechnical University (NWPU), Supervisor: [Prof. Helei Cui](https://harrycui.github.io/).
 - *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
 
+<span class='anchor' id='Talks'></span>
+# Invited Talks
+
+- On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression, @Harbin Institute of Technology, Apr. 2026.
 
 <span class='anchor' id='professional-activities'></span>
 # Professional Activities
