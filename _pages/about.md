@@ -130,6 +130,7 @@ _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_
 
 - Research Student Attachment Programme, PolyU, 2025. (HKD 55,000)
 - International Collaborative Research Fellowship, PolyU, 2025. (HKD 55,000)
+- PolyU Research Postgraduate Scholarship, 2023-2026.
 - Excellent Master Dissertation Award of Jiangsu Province, 2023.
 - Excellent Master Dissertation Award of Southeast University, 2023.
 - Outstanding Master's Graduate, 2022.
