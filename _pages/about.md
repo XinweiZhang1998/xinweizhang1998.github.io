@@ -66,11 +66,11 @@ _Arxiv_, 2026.<br />
 **2026**
 - **[ICML'26] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
 **<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu✉️  <br />
-_In Proc. ICML_, 2026.<br />
+_In Proc. of Forty-third International Conference on Machine Learning_, 2026.<br />![A](https://img.shields.io/badge/CCF-A-red)<br />
 
 - **[USENIX SEC'26] [United We Defend: Collaborative Membership Inference Defenses in Federated Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/bai)** <br />
 Li Bai, Junxu Liu, Sen Zhang, **<ins>Xinwei Zhang</ins>**, Qingqing Ye, Haibo Hu✉️  <br />
-_In Proc. USENIX Security Symposium_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
+_In Proc. of USENIX Security Symposium_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [[Code](https://github.com/BaiLibl/CoFedMID)] [<a href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank">PDF</a>]
 
 - **[TDSC'26]** **[A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection](https://ieeexplore.ieee.org/document/11435482)** <br />
@@ -82,7 +82,7 @@ _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.![A](https:/
 
 - **[WWW'25]** [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 **<ins>Xinwei Zhang</ins>**, Haibo Hu✉️ , Qingqing Ye, Li Bai, Huadi Zheng <br />
-_In Proc. The ACM Web Conference (WWW)_, 2025.![A](https://img.shields.io/badge/CCF-A-red) <br />
+_In Proc. of The ACM Web Conference (WWW)_, 2025.![A](https://img.shields.io/badge/CCF-A-red) <br />
 [[Code](https://github.com/XinweiZhang1998/MER_Inspector)]  [<a href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank">PDF</a>]
 
 - **[NeurIPS'25]** [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) <br />
