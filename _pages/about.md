@@ -26,6 +26,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.04*: Our paper, **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**, is accepted by ICML 2026.
 - *2026.03*: Our paper, **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection**, is accepted by IEEE Transactions on Dependable and Secure Computing.
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security Symposium 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
@@ -68,6 +69,10 @@ _Arxiv_, 2026.<br />
 
 ---
 **2026**
+- **[ICML'26] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
+**<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu✉️  <br />
+_In Proc. ICML_, 2026.<br />
+
 - **[USENIX SEC'26] [United We Defend: Collaborative Membership Inference Defenses in Federated Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/bai)** <br />
 Li Bai, Junxu Liu, Sen Zhang, **<ins>Xinwei Zhang</ins>**, Qingqing Ye, Haibo Hu✉️  <br />
 _In Proc. USENIX Security Symposium_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
