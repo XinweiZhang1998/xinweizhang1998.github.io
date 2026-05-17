@@ -66,7 +66,7 @@ _Arxiv_, 2026.<br />
 **2026**
 - **[ICML'26] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
 **<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai✉️, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu  <br />
-_In Proc. of International Conference on Machine Learning_, 2026.<br />![A](https://img.shields.io/badge/CCF-A-red)<br />
+_In Proc. of International Conference on Machine Learning_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
 [[Code](https://github.com/XinweiZhang1998/CAGE)] [<a href="https://xinweizhang1998.github.io/_pages/File/ICML_26_CAGE.pdf" target="_blank">PDF</a>]
 
 - **[USENIX SEC'26] [United We Defend: Collaborative Membership Inference Defenses in Federated Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/bai)** <br />
