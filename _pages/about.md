@@ -55,11 +55,11 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 **Preprint**
 - **[Preprint] [IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
-Linyan Dai, **<ins>Xinwei Zhang</ins>**, Haoyang Li, Qingqing Ye, Haibo Hu✉️ <br />
+Linyan Dai, **<ins>Xinwei Zhang</ins>**, Haoyang Li, Qingqing Ye, Haibo Hu <br />
 _Arxiv_, 2026.<br />
 
-- **[Preprint] [Understanding and Enhancing Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
-**<ins>Xinwei Zhang</ins>**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu✉️  <br />
+- **[Preprint] [Grounding-Driven Attack: Improving Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
+**<ins>Xinwei Zhang</ins>**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu <br />
 _Arxiv_, 2026.<br />
 
 ---
