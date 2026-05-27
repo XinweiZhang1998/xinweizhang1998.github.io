@@ -24,3 +24,32 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [[Usenix Security'26](https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf)]
   - Large Multi-Modal Models' Security, Privacy, and Safety: [[ICML'26](https://xinweizhang1998.github.io/_pages/File/ICML_26_CAGE.pdf)]
 
+<span class='anchor' id='news'></span>
+# 🔥 News
+- *2026.04*: Our paper, **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**, is accepted by ICML 2026.
+- *2026.03*: Our paper, **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection**, is accepted by IEEE Transactions on Dependable and Secure Computing.
+- *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security Symposium 2026.
+- *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
+- *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
+- *2025.06*: Our paper, **ProVFL: Property Inference Attacks against Vertical Federated Learning**, is accepted by IEEE Transactions on Information Forensics and Security.
+- *2025.01*: Our paper, **MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**, is accepted by The ACM Web Conference (WWW) 2025.
+
+<details>
+<summary>Show more</summary>
+<ul>
+  <li><em>2024.02</em>: Our paper, **Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**, is accepted by IEEE Transactions on Vehicular Technology.</li>
+  <li><em>2024.01</em>: Our paper, A Secure and Reliable Blockchain-based Audit Log System, is accepted by IEEE ICC'24.</li>
+  <li><em>2023.12</em>: My Master's Thesis is rated as "Excellent Master Dissertation Award of Jiangsu Province."</li>
+  <li><em>2023.06</em>: My Master's Thesis is rated as "Excellent Master Dissertation Award of Southeast University."</li>
+  <li><em>2023.01</em>: Our paper, DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System, is accepted by IEEE ICC'23.</li>
+  <li><em>2021.09</em>: Our paper, Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems, is accepted by IEEE Internet of Things Journal.</li>
+  <li><em>2021.07</em>: Our paper, Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network, is accepted by IEEE VTC-2021FALL.</li>
+  <li><em>2021.01</em>: Our paper, Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems, is accepted by IEEE INFOCOM WKSHPS.</li>
+</ul>
+</details>
+
+<span class='anchor' id='visitors'></span>
+# Visitors
+
+<a href='https://clustrmaps.com/site/1c5hr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616'/></a>
+
