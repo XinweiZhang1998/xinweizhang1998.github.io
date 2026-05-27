@@ -7,15 +7,19 @@ author_profile: true
 
 # Education
 
-| Period | Position | Institution | Supervisor |
+A concise view of academic milestones and supervisors.
+
+| Period | Degree / Program | Institution | Supervisor |
 | --- | --- | --- | --- |
 | *Sep. 2023 – Aug. 2026 (expected)* | Ph.D. | The Hong Kong Polytechnic University | [Prof. Haibo Hu](https://haibohu.org/) |
 | *Dec. 2025 – Aug. 2026* | Visiting Ph.D. Student | Nanyang Technological University | [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/) |
-| *Sep. 2019 – Jun. 2022* | Master of Engineering, Computer Technology | Southeast University | [Prof. Guyue Li](https://guyuelee.github.io/blog.github.io/) |
+| *Sep. 2019 – Jun. 2022* | M.Eng. in Computer Technology | Southeast University | [Prof. Guyue Li](https://guyuelee.github.io/blog.github.io/) |
 
 # Experience
 
-| Period | Position | Institution | Supervisor |
+Professional research appointments and supervision.
+
+| Period | Role | Institution / Unit | Supervisor |
 | --- | --- | --- | --- |
 | *May 2023 – Aug. 2023* | Research Assistant | Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University | [Prof. Haibo Hu](https://haibohu.org/) |
 | *Sep. 2022 – Dec. 2022* | Research Assistant | School of Computer Science, Northwestern Polytechnical University (NWPU) | [Prof. Helei Cui](https://harrycui.github.io/) |
