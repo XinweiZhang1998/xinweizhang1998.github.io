@@ -5,15 +5,42 @@
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            // var totalCitation = data['citedby']
-            // document.getElementById('total_cit').innerHTML = totalCitation;
+        function updateTotalCitations(data) {
+            var totalCitation = data['citedby'] || data['cited_by'] || 0;
+            if (document.getElementById('total_cit')) {
+                document.getElementById('total_cit').textContent = totalCitation;
+            }
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var numCitations = data['publications'] && data['publications'][paperId] && data['publications'][paperId]['num_citations']
+                if (numCitations !== undefined) {
+                    element.innerHTML = '| Citations: ' + numCitations;
+                }
             });
+        }
+
+        function showCitationError() {
+            if (document.getElementById('total_cit')) {
+                document.getElementById('total_cit').textContent = 'unavailable';
+            }
+        }
+
+        function fetchScholarData(url, fallback) {
+            $.getJSON(url)
+                .done(updateTotalCitations)
+                .fail(function () {
+                    if (fallback) {
+                        fallback();
+                    } else {
+                        showCitationError();
+                    }
+                });
+        }
+
+        fetchScholarData(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function () {
+            var rawUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json';
+            fetchScholarData(rawUrl, showCitationError);
         });
     })
 </script>
