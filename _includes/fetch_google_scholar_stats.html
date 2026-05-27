@@ -1,7 +1,7 @@
 <script>
     $(document).ready(function () {
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@latest/'
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
@@ -39,7 +39,7 @@
         }
 
         fetchScholarData(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function () {
-            var rawUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json';
+            var rawUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/main/google-scholar-stats/gs_data.json';
             fetchScholarData(rawUrl, showCitationError);
         });
     })
