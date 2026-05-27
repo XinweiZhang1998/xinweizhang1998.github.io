@@ -7,8 +7,6 @@ author_profile: true
 
 # Education
 
-A concise view of academic milestones and supervisors.
-
 | Period | Degree / Program | Institution | Supervisor |
 | --- | --- | --- | --- |
 | *Sep. 2023 – Aug. 2026 (expected)* | Ph.D. | The Hong Kong Polytechnic University | [Prof. Haibo Hu](https://haibohu.org/) |
@@ -17,10 +15,8 @@ A concise view of academic milestones and supervisors.
 
 # Experience
 
-Professional research appointments and supervision.
-
 | Period | Role | Institution / Unit | Supervisor |
 | --- | --- | --- | --- |
-| *May 2023 – Aug. 2023* | Research Assistant | Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University | [Prof. Haibo Hu](https://haibohu.org/) |
-| *Sep. 2022 – Dec. 2022* | Research Assistant | School of Computer Science, Northwestern Polytechnical University (NWPU) | [Prof. Helei Cui](https://harrycui.github.io/) |
-| *Apr. 2021 – Sep. 2021* | Research Assistant | Department of Computing, The Hong Kong Polytechnic University | [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/) |
+| *May 2023 – Aug. 2023* | Research Assistant | The Hong Kong Polytechnic University | [Prof. Haibo Hu](https://haibohu.org/) |
+| *Sep. 2022 – Dec. 2022* | Research Assistant | Northwestern Polytechnical University| [Prof. Helei Cui](https://harrycui.github.io/) |
+| *Apr. 2021 – Sep. 2021* | Research Assistant | The Hong Kong Polytechnic University | [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/) |
