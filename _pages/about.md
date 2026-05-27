@@ -24,8 +24,6 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [[Usenix Security'26](https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf)]
   - Large Multi-Modal Models' Security, Privacy, and Safety: [[ICML'26](https://xinweizhang1998.github.io/_pages/File/ICML_26_CAGE.pdf)]
 
-**Total citations:** <span id="total_cit">loading...</span>
-
 <span class='anchor' id='news'></span>
 # 🔥 News
 <style>
