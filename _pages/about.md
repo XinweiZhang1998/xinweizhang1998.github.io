@@ -48,10 +48,10 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 </style>
 <div class="news-scroll-container" markdown="1">
 - *2026.04*: Our paper, **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**, is accepted by ICML 2026.
-- *2026.04*: Invited to serve as the **NeurIPS 2026 reviewer**.
-- *2026.04*: Invited to serve as the **Program Committee member for ACM MM 2026**.
+- *2026.04*: Invited to serve as the NeurIPS 2026 reviewer.
+- *2026.04*: Invited to serve as the Program Committee member for ACM MM 2026.
 - *2026.03*: Our paper, **A Deep Dynamic Graph Generative Framework for Blockchain Phishing Detection**, is accepted by IEEE Transactions on Dependable and Secure Computing.
-- *2026.01*: Invited to serve as the **ICML 2026 reviewer**.
+- *2026.01*: Invited to serve as the ICML 2026 reviewer.
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by USENIX Security Symposium 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
 - *2025.07*: I am honored to receive both the **International Collaborative Research Fellowship** and the **Research Student Attachment Programme** from PolyU, supporting my 9-month research visit to NTU.
