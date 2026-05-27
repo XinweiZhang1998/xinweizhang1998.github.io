@@ -67,8 +67,4 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 - *2021.01*: Our paper, **Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**, is accepted by IEEE INFOCOM WKSHPS.
 </div>
 
-<span class='anchor' id='visitors'></span>
-# Visitors
-
-<a href='https://clustrmaps.com/site/1c5hr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616'/></a>
 
