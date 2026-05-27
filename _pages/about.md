@@ -24,6 +24,8 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [[Usenix Security'26](https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf)]
   - Large Multi-Modal Models' Security, Privacy, and Safety: [[ICML'26](https://xinweizhang1998.github.io/_pages/File/ICML_26_CAGE.pdf)]
 
+**Total citations:** <span id="total_cit">loading...</span>
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 <style>
@@ -67,8 +69,10 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 - *2021.01*: Our paper, **Secret Key Generation Scheme Based on Generative Adversarial Networks in FDD Systems**, is accepted by IEEE INFOCOM WKSHPS.
 </div>
 
+<!--
 <div style="text-align:center; margin: 1.5rem 0;">
   <a href="https://clustrmaps.com/site/1c5hr" title="Visit tracker">
     <img src="https://clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616" alt="Visitor map" width="400" loading="lazy" />
   </a>
 </div>
+-->
