@@ -117,25 +117,23 @@ blockquote {
 
 /* links */
 
-a {
+a,
+a:visited,
+a:hover,
+a:active {
   color: $link-color;
   text-decoration: none;
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
 
-  &:visited {
-    color: $link-color-visited;
-  }
-  
-  &:focus {
-    @extend %tab-focus;
-  }
+a:focus {
+  @extend %tab-focus;
+}
 
-  &:hover,
-  &:active {
-    color: $link-color-hover;
-    outline: 0;
-  }
+a:hover,
+a:active {
+  outline: 0;
 }
 
 /* code */
