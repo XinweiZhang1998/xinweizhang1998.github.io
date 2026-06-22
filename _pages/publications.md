@@ -12,10 +12,12 @@ author_profile: true
 - **[Preprint] [IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
 Linyan Dai, **<ins>Xinwei Zhang</ins>**, Haoyang Li, Qingqing Ye, Haibo Hu <br />
 _Arxiv_, 2026.<br />
+<span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Arxiv26_IDDM.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 - **[Preprint] [Grounding-Driven Attack: Improving Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
 **<ins>Xinwei Zhang</ins>**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu <br />
 _Arxiv_, 2026.<br />
+<span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Arxiv26_GDA.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 ---
 **2026**
@@ -55,7 +57,8 @@ _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6
 
 - **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494)<br /> 
 **<ins>Xinwei Zhang</ins>**, Guyue Li✉️ , Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
-_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.![Q1](https://img.shields.io/badge/JCR-Q1-red)
+_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135-10149, July 2024.![Q1](https://img.shields.io/badge/JCR-Q1-red)<br />
+<span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/TVT24_MultiEnvSKG.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 - **[ICC'24]** [**A Secure and Reliable Blockchain-based Audit Log System**](https://ieeexplore.ieee.org/document/10623012) <br />
 Zhonghao Liu, **<ins>Xinwei Zhang</ins>**, Guyue Li, Helei Cui, Jiaheng Wang, Bin Xiao✉️  <br />
@@ -63,12 +66,13 @@ _In Proc. IEEE International Conference on Communications (ICC)_, 2024.![C](http
 
 - **[ICC'23]** [**DBE-voting: A Privacy-preserving and Auditable Blockchain-based E-voting System**](https://ieeexplore.ieee.org/document/10279692)  <br />
 Zhonghao Liu, **<ins>Xinwei Zhang</ins>**, Laphou Lao, Guyue Li, Bin Xiao✉️  <br />
-_In Proc. IEEE International Conference on Communications (ICC)_, 2023.![C](https://img.shields.io/badge/CCF-C-blue)
+_In Proc. IEEE International Conference on Communications (ICC)_, 2023.![C](https://img.shields.io/badge/CCF-C-blue)<br />
+<span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/2023-ICC.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 - **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766)  <br />
 **<ins>Xinwei Zhang</ins>**, Guyue Li✉️ , Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao <br />
 _IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081-6094, April 2022.![Q1](https://img.shields.io/badge/JCR-Q1-red) <br />
-<span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/XinweiZhang1998/Code-of-KGNet" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a></span>
+<span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/XinweiZhang1998/Code-of-KGNet" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/IoTJ22_KGNet.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 - **[VTC'21]** [**Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network**](https://ieeexplore.ieee.org/document/9625252)  <br />
 **<ins>Xinwei Zhang</ins>**, Guyue Li✉️ , Zongyue Hou and Aiqun Hu <br />
