@@ -243,12 +243,12 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: $link-color;
     font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
-      color: $link-color-hover;
+      color: $link-color;
     }
   }
 }
@@ -258,10 +258,10 @@
   font-size: 1.75em;
   display: block;
   a {
-    color: inherit;
+    color: $link-color;
     text-decoration: none;
     &:hover {
-      color: $link-color-hover;
+      color: $link-color;
     }
   }
   @include breakpoint($large) {

@@ -323,10 +323,10 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    color: $link-color;
 
     &:hover {
-      color: $link-color-hover;
+      color: $link-color;
     }
   }
 

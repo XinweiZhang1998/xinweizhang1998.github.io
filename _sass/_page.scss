@@ -83,15 +83,17 @@
     }
   }
 
-  a {
+  a,
+  a:visited,
+  a:hover,
+  a:active {
+    color: $link-color;
     text-decoration: none;
+  }
 
-    &:hover {
-      color: $link-color-hover;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+  a:hover {
+    img {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
     }
   }
 
@@ -247,7 +249,7 @@
   }
 
   a {
-    color: inherit;
+    color: $link-color;
   }
 }
 
@@ -400,7 +402,7 @@
   }
 
   a {
-    color: inherit;
+    color: $link-color;
     text-decoration: none;
   }
 }

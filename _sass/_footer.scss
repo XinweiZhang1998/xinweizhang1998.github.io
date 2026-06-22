@@ -37,11 +37,11 @@
   }
 
   a {
-    color: inherit;
+    color: $link-color;
     text-decoration: none;
 
     &:hover {
-      color: $link-color-hover;
+      color: $link-color;
     }
   }
 
