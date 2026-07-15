@@ -47,6 +47,9 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   }
 </style>
 <div class="news-scroll-container" markdown="1">
+
+- *2026.07*: Invited to serve as the KDD 2027 reviewer.
+- *2026.06*: Invited to serve as the Program Committee member for [DSPP 2026](http://dspp2026.com/cfp).
 - *2026.04*: Our paper, **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**, is accepted by ICML 2026.
 - *2026.04*: Invited to serve as the NeurIPS 2026 reviewer.
 - *2026.04*: Invited to serve as the Program Committee member for ACM MM 2026.
