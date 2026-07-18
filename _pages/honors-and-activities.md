@@ -24,10 +24,11 @@ author_profile: true
 - ACM Student Member.
 - Conference Programme Chair / Reviewer:
   - International Conference on Machine Learning (ICML 2026)
-  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, 2027)
   - Annual Conference on Neural Information Processing Systems (NeurIPS 2025, 2026)
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, 2027)
   - ACM Web Conference (WWW 2025, 2026)
   - ACM International Conference on Multimedia (MM 2025, 2026)
+  - Annual AAAI Conference on Artificial Intelligence (AAAI 2027)
   - International Conference on Data Security and Privacy Protection (DSPP 2026)
 - Journal Reviewer:
   - IEEE Journal on Selected Areas in Communications (J-SAC)
