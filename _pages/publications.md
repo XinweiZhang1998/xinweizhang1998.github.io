@@ -56,9 +56,9 @@ author_profile: true
   .publication-venue {
     display: inline-block;
     margin-top: 0.35rem;
-    color: #a6192e;
+    color: #68717a;
     font-size: 0.94rem;
-    font-weight: 600;
+    font-weight: 400;
   }
 
   .publication-cards .pub-links {
@@ -179,6 +179,8 @@ author_profile: true
 
 <div class="publication-cards" markdown="1">
 
-- [China Patent] 李古月；**张鑫伟**；侯宗越；王星宇，一种基于深度学习的频分双工系统密钥生成方法，已授权，2022/11/18，CN112906035B.
+- **[China Patent] 一种基于深度学习的频分双工系统密钥生成方法** <br />
+<span class="publication-authors" markdown="span">李古月；**<ins>张鑫伟</ins>**；侯宗越；王星宇</span><br />
+<span class="publication-venue">已授权，2022/11/18，CN112906035B.</span>
 
 </div>
