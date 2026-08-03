@@ -35,7 +35,7 @@ author_profile: true
     justify-content: center;
     padding: 1.35rem;
     border-right: 1px solid #edf0f2;
-    background: #f8f9fa;
+    background: #fff;
   }
 
   .institution-mark img {
@@ -43,10 +43,6 @@ author_profile: true
     width: 100%;
     max-height: 5.5rem;
     object-fit: contain;
-  }
-
-  .institution-mark--seu {
-    background: #205b45;
   }
 
   .timeline-content {
@@ -155,7 +151,7 @@ author_profile: true
   </article>
 
   <article class="timeline-card">
-    <div class="institution-mark institution-mark--seu">
+    <div class="institution-mark">
       <img src="/images/institutions/seu.png" alt="Southeast University logo">
     </div>
     <div class="timeline-content">
