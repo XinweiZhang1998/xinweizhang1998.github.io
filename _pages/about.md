@@ -15,6 +15,35 @@ I am a PhD student with [the Department of Electrical and Electronic Engineering
 ). From April 2021 to September 2021, I worked as a Research Assistant with the Department of Computing, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
 Feel free to drop me an email if you want to collaborate or have a discussion!
 
+<p class="scholar-citations">
+  <a href="https://scholar.google.com/citations?user=OdBgAwkAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" aria-hidden="true"></i>
+    Google Scholar citations: <strong id="google-scholar-citation-count">641</strong>
+  </a>
+</p>
+
+<script>
+  (function () {
+    const scholarId = "OdBgAwkAAAAJ";
+    const statsUrl = "https://raw.githubusercontent.com/XinweiZhang1998/xinweizhang1998.github.io/google-scholar-stats/gs_data.json";
+
+    fetch(statsUrl, { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("Citation data unavailable");
+        return response.json();
+      })
+      .then(function (data) {
+        if (data.scholar_id === scholarId && Number.isFinite(Number(data.citedby))) {
+          document.getElementById("google-scholar-citation-count").textContent =
+            Number(data.citedby).toLocaleString("en-US");
+        }
+      })
+      .catch(function () {
+        // Keep the last known count shown in the page when live data is unavailable.
+      });
+  })();
+</script>
+
 # Research Interests
 
 - Physical-layer security, especially secret key generation: [[IoT-J'22](https://ieeexplore.ieee.org/document/9526766)]; [[TVT'24](https://ieeexplore.ieee.org/document/10440494)]
