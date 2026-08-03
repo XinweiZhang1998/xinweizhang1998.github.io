@@ -42,7 +42,15 @@ author_profile: true
   .publication-cards > ul > li > p > strong:first-child,
   .publication-cards > ul > li > p > strong:first-child a {
     color: #343a40;
-    font-size: 1.1rem;
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+
+  .publication-cards > ul > li > p > strong:first-child + strong,
+  .publication-cards > ul > li > p > strong:first-child + a > strong {
+    color: #343a40;
+    font-size: 1.16rem;
+    font-weight: 700;
     line-height: 1.4;
   }
 
