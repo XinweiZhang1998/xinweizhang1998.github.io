@@ -18,31 +18,14 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 <p class="scholar-citations">
   <a href="https://scholar.google.com/citations?user=OdBgAwkAAAAJ" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-google-scholar" aria-hidden="true"></i>
-    Google Scholar citations: <strong id="google-scholar-citation-count">641</strong>
+    <img
+      src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXinweiZhang1998%2Fxinweizhang1998.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json"
+      alt="Google Scholar citation count"
+      height="20"
+      style="vertical-align: text-bottom;"
+    >
   </a>
 </p>
-
-<script>
-  (function () {
-    const scholarId = "OdBgAwkAAAAJ";
-    const statsUrl = "https://raw.githubusercontent.com/XinweiZhang1998/xinweizhang1998.github.io/google-scholar-stats/gs_data.json";
-
-    fetch(statsUrl, { cache: "no-store" })
-      .then(function (response) {
-        if (!response.ok) throw new Error("Citation data unavailable");
-        return response.json();
-      })
-      .then(function (data) {
-        if (data.scholar_id === scholarId && Number.isFinite(Number(data.citedby))) {
-          document.getElementById("google-scholar-citation-count").textContent =
-            Number(data.citedby).toLocaleString("en-US");
-        }
-      })
-      .catch(function () {
-        // Keep the last known count shown in the page when live data is unavailable.
-      });
-  })();
-</script>
 
 # Research Interests
 
