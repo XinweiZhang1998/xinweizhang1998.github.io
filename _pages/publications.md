@@ -5,10 +5,77 @@ excerpt: ""
 author_profile: true
 ---
 
+<style>
+  .publication-cards > ul {
+    display: grid;
+    gap: 1rem;
+    margin: 1rem 0 2.5rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  .publication-cards > ul > li {
+    position: relative;
+    margin: 0;
+    padding: 1.35rem 1.55rem 1.25rem;
+    overflow: hidden;
+    border: 1px solid #e6e8eb;
+    border-radius: 1rem;
+    background: #fff;
+    box-shadow: 0 0.35rem 1.2rem rgba(31, 41, 55, 0.06);
+    line-height: 1.65;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .publication-cards > ul > li::before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 0.28rem;
+    background: #a6192e;
+    content: "";
+  }
+
+  .publication-cards > ul > li:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.7rem 1.8rem rgba(31, 41, 55, 0.1);
+  }
+
+  .publication-cards > ul > li > strong:first-child,
+  .publication-cards > ul > li > a:first-child,
+  .publication-cards > ul > li > strong:first-child a {
+    color: #343a40;
+    font-size: 1.04rem;
+    line-height: 1.45;
+  }
+
+  .publication-cards .pub-links {
+    display: inline-flex;
+    gap: 0.45rem;
+    margin-top: 0.45rem;
+  }
+
+  .publication-cards img[src*="shields.io"] {
+    margin-left: 0.35rem;
+    vertical-align: middle;
+  }
+
+  @media (max-width: 600px) {
+    .publication-cards > ul > li {
+      padding: 1.1rem 1.15rem 1rem;
+      font-size: 0.92rem;
+    }
+  }
+</style>
+
 # 📖 Publications
 (✉️ is the corresponding author)
 
-**Preprint**
+## Preprints
+
+<div class="publication-cards" markdown="1">
+
 - **[Preprint] [IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
 Linyan Dai, **<ins>Xinwei Zhang</ins>**, Haoyang Li, Qingqing Ye, Haibo Hu <br />
 _Arxiv_, 2026.<br />
@@ -19,8 +86,12 @@ _Arxiv_, 2026.<br />
 _Arxiv_, 2026.<br />
 <span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Arxiv26_GDA.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
----
-**2026**
+</div>
+
+## 2026
+
+<div class="publication-cards" markdown="1">
+
 - **[ICML'26] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
 **<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai✉️, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu  <br />
 _In Proc. of International Conference on Machine Learning_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
@@ -36,7 +107,11 @@ Siyi Xiao, Lejun Zhang✉️ , **<ins>Xinwei Zhang</ins>**, Sen Zhang, Shen Su, 
 _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.![A](https://img.shields.io/badge/CCF-A-red)<br />
 <span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/TDSC26_GraphFlowGen.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
-**2025**
+</div>
+
+## 2025
+
+<div class="publication-cards" markdown="1">
 
 - **[WWW'25]** [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 **<ins>Xinwei Zhang</ins>**, Haibo Hu✉️ , Qingqing Ye, Li Bai, Huadi Zheng <br />
@@ -53,7 +128,11 @@ Li Bai, **<ins>Xinwei Zhang</ins>**, Sen Zhang, Qingqing Ye, Haibo Hu✉️  <br
 _IEEE Transactions on Information Forensics and Security (TIFS)_, vol. 20, pp. 6529-6543, 2025.![A](https://img.shields.io/badge/CCF-A-red)<br />
 <span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/BaiLibl/ProVFL" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
-**2024 and Before**
+</div>
+
+## 2024 and Before
+
+<div class="publication-cards" markdown="1">
 
 - **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494)<br /> 
 **<ins>Xinwei Zhang</ins>**, Guyue Li✉️ , Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang <br />
@@ -82,5 +161,12 @@ _In Proc. 2021 IEEE 94th Vehicular Technology Conference (VTC)_, 2021.
  Zongyue Hou and **<ins>Xinwei Zhang</ins>** ✉️ <br />
 _In Proc. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2021. ![A](https://img.shields.io/badge/CCF-A'Workshop-red)
 
+</div>
+
 ## Other Publications
+
+<div class="publication-cards" markdown="1">
+
 - [China Patent] 李古月；**张鑫伟**；侯宗越；王星宇，一种基于深度学习的频分双工系统密钥生成方法，已授权，2022/11/18，CN112906035B.
+
+</div>
