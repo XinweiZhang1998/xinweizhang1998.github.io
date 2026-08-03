@@ -88,12 +88,12 @@ author_profile: true
 
 <div class="publication-cards" markdown="1">
 
-- **[Preprint] [IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
+- **[Preprint]** **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
 <span class="publication-authors" markdown="span">Linyan Dai, **<ins>Xinwei Zhang</ins>**, Haoyang Li, Qingqing Ye, Haibo Hu</span><br />
 <span class="publication-venue" markdown="span">_Arxiv_, 2026.</span><br />
 <span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Arxiv26_IDDM.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
-- **[Preprint] [Grounding-Driven Attack: Improving Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
+- **[Preprint]** **[Grounding-Driven Attack: Improving Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
 <span class="publication-authors" markdown="span">**<ins>Xinwei Zhang</ins>**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu</span><br />
 <span class="publication-venue" markdown="span">_Arxiv_, 2026.</span><br />
 <span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Arxiv26_GDA.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
@@ -104,12 +104,12 @@ author_profile: true
 
 <div class="publication-cards" markdown="1">
 
-- **[ICML'26] [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://arxiv.org/abs/2601.21531)** <br />
+- **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** <br />
 <span class="publication-authors" markdown="span">**<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai✉️, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
 <span class="publication-venue" markdown="span">_In Proc. of International Conference on Machine Learning_, 2026. ![A](https://img.shields.io/badge/CCF-A-red)</span><br />
 <span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/XinweiZhang1998/CAGE" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/ICML_26_CAGE.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
-- **[USENIX SEC'26] [United We Defend: Collaborative Membership Inference Defenses in Federated Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/bai)** <br />
+- **[USENIX SEC'26]** **[United We Defend: Collaborative Membership Inference Defenses in Federated Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/bai)** <br />
 <span class="publication-authors" markdown="span">Li Bai, Junxu Liu, Sen Zhang, **<ins>Xinwei Zhang</ins>**, Qingqing Ye, Haibo Hu✉️</span><br />
 <span class="publication-venue" markdown="span">_In Proc. of USENIX Security Symposium_, 2026. ![A](https://img.shields.io/badge/CCF-A-red)</span><br />
 <span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/BaiLibl/CoFedMID" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
