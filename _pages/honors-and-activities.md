@@ -23,6 +23,7 @@ author_profile: true
 - IEEE Student Member.
 - ACM Student Member.
 - Conference Programme Chair / Reviewer:
+  - USENIX Security Symposium (USENIX Security 2027)
   - International Conference on Machine Learning (ICML 2026)
   - Annual Conference on Neural Information Processing Systems (NeurIPS 2025, 2026)
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, 2027)

@@ -60,6 +60,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 </style>
 <div class="news-scroll-container" markdown="1">
 
+- *2026.08*: Invited to serve as a Program Committee member for USENIX Security 2027.
 - *2026.07*: Invited to serve as the Program Committee member for AAAI 2027.
 - *2026.07*: Invited to serve as the KDD 2027 reviewer.
 - *2026.06*: Invited to serve as the Program Committee member for [DSPP 2026](http://dspp2026.com/cfp).
