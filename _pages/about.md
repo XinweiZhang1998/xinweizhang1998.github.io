@@ -88,5 +88,5 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 # 🌍 Visitors
 
 <div style="text-align:center; margin: 1.5rem 0 0;">
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=aerwwDmPajkmWdTqL1FuFcpD2_j2r2PSVGwoC6HdObU"></script>
+  <a href='https://mapmyvisitors.com/web/1c7m8' title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=n&d=edSAJUPxShpUeYINwumsulyw6r8bhfXONE3hP3jL7mg&co=2d78ad&ct=ffffff'/></a>
 </div>
