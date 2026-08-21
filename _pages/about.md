@@ -88,7 +88,5 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 # 🌍 Visitors
 
 <div style="text-align:center; margin: 1.5rem 0 0;">
-  <a href="https://clustrmaps.com/site/1c5hr" title="Visit tracker">
-    <img src="https://clustrmaps.com/map_v2.png?cl=e37979&w=400&t=tt&d=4FTCO24SPqZqK7LwQm7qemKD0j6bRA8JbBEa3egxjaM&co=7fb8e0&ct=ea1616" alt="Visitor count and map" width="400" loading="lazy" style="max-width:100%; height:auto; border:0;" />
-  </a>
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=aerwwDmPajkmWdTqL1FuFcpD2_j2r2PSVGwoC6HdObU"></script>
 </div>
