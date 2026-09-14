@@ -41,19 +41,19 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Hangcheng Liu, Li Bai✉️, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
-<span class="publication-venue" markdown="span">_In Proc. of International Conference on Machine Learning_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/XinweiZhang1998/CAGE" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/ICML_26_CAGE.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
+<span class="publication-venue" markdown="span">_In Proc. of International Conference on Machine Learning_, 2026.</span>
 
 - **[WWW'25]** [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Haibo Hu✉️, Qingqing Ye, Li Bai, Huadi Zheng</span><br />
-<span class="publication-venue" markdown="span">_In Proc. of The ACM Web Conference (WWW)_, 2025.</span><span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/XinweiZhang1998/MER_Inspector" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/WWW25_MER_Inspector.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
+<span class="publication-venue" markdown="span">_In Proc. of The ACM Web Conference (WWW)_, 2025.</span>
 
 - **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Guyue Li✉️, Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang</span><br />
-<span class="publication-venue" markdown="span">_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135–10149, July 2024.</span><span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/TVT24_MultiEnvSKG.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
+<span class="publication-venue" markdown="span">_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135–10149, July 2024.</span>
 
 - **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Guyue Li✉️, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao</span><br />
-<span class="publication-venue" markdown="span">_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081–6094, April 2022.</span><span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/XinweiZhang1998/Code-of-KGNet" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/IoTJ22_KGNet.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
+<span class="publication-venue" markdown="span">_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081–6094, April 2022.</span>
 
 <span class='anchor' id='news'></span>
 # 🔥 News
