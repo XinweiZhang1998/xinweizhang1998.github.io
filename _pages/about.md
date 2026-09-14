@@ -36,6 +36,14 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   - Data Privacy: [[TIFS'25](https://xinweizhang1998.github.io/_pages/File/TIFS25_ProVFL.pdf)]; [[NeurIPS'25](https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf)]; [[Usenix Security'26](https://xinweizhang1998.github.io/_pages/File/Sec26a-CoFedMID.pdf)]
   - Large Multi-Modal Models' Security, Privacy, and Safety: [[ICML'26](https://xinweizhang1998.github.io/_pages/File/ICML_26_CAGE.pdf)]
 
+<span class='anchor' id='selected-publications'></span>
+# Selected Publications ([Full]({{ '/publications/' | relative_url }}))
+
+- **[ICML'26]** [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)
+- **[WWW'25]** [MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective](https://dl.acm.org/doi/abs/10.1145/3696410.3714894)
+- **[TVT'24]** [Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments](https://ieeexplore.ieee.org/document/10440494)
+- **[IoT-J'22]** [Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems](https://ieeexplore.ieee.org/document/9526766)
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 <style>
