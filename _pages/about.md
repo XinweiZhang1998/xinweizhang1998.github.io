@@ -79,6 +79,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 </style>
 <div class="news-scroll-container" markdown="1">
 
+- *2026.09*: Serving as a reviewer for [ICLR 2027](https://iclr.cc/Conferences/2027).
 - *2026.08*: Invited to serve as a Program Committee member for [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27).
 - *2026.07*: Invited to serve as a Program Committee member for [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/).
 - *2026.07*: Invited to serve as a reviewer for [KDD 2027](https://kdd2027.kdd.org/).

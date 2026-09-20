@@ -8,7 +8,7 @@ author_profile: true
 <style>
   .publication-cards > ul {
     display: grid;
-    gap: 1rem;
+    gap: 0.6rem;
     margin: 1rem 0 2.5rem;
     padding: 0;
     list-style: none;
@@ -18,9 +18,9 @@ author_profile: true
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 9rem;
+    min-height: 0;
     margin: 0;
-    padding: 1.4rem 1.65rem;
+    padding: 0.9rem 1.65rem;
     overflow: hidden;
     border: 1px solid #e6e8eb;
     border-radius: 1rem;
@@ -84,7 +84,7 @@ author_profile: true
   @media (max-width: 600px) {
     .publication-cards > ul > li {
       min-height: 0;
-      padding: 1.2rem 1.25rem;
+      padding: 0.8rem 1.25rem;
       font-size: 0.92rem;
     }
   }
@@ -92,20 +92,6 @@ author_profile: true
 
 # 📖 Publications
 (✉️ is the corresponding author)
-
-## Preprints
-
-<div class="publication-cards" markdown="1">
-
-- **[Preprint]** **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903)** <br />
-<span class="publication-authors" markdown="span">Linyan Dai, **<ins>Xinwei Zhang</ins>**, Haoyang Li, Qingqing Ye, Haibo Hu</span><br />
-<span class="publication-venue" markdown="span">_Arxiv_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Arxiv26_IDDM.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
-
-- **[Preprint]** **[Grounding-Driven Attack: Improving Encoder-based Adversarial Transferability against Large Vision-Language Models](https://arxiv.org/abs/2602.09431)** <br />
-<span class="publication-authors" markdown="span">**<ins>Xinwei Zhang</ins>**, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu</span><br />
-<span class="publication-venue" markdown="span">_Arxiv_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/Arxiv26_GDA.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
-
-</div>
 
 ## 2026
 
