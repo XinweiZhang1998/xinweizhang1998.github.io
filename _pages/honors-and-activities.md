@@ -23,7 +23,7 @@ author_profile: true
 - IEEE Student Member.
 - ACM Student Member.
 - Conference Programme Chair / Reviewer:
-  - International Conference on Learning Representations (ICLR 2027), Reviewer
+  - International Conference on Learning Representations (ICLR 2027)
   - USENIX Security Symposium (USENIX Security 2027)
   - International Conference on Machine Learning (ICML 2026)
   - Annual Conference on Neural Information Processing Systems (NeurIPS 2025, 2026)
