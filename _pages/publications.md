@@ -93,6 +93,16 @@ author_profile: true
 # 📖 Publications
 (✉️ is the corresponding author)
 
+## 2027
+
+<div class="publication-cards" markdown="1">
+
+- **[NeurIPS'27]** **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate** ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
+<span class="publication-authors" markdown="span">Haocheng Ye, Aoting Hu, **<ins>Xinwei Zhang</ins>**✉️, Xunzhu Tang, Shuchao Pang, Jason Xue</span><br />
+<span class="publication-venue" markdown="span">_In Proc. Neural Information Processing Systems (NeurIPS)_, 2027.</span>
+
+</div>
+
 ## 2026
 
 <div class="publication-cards" markdown="1">
