@@ -45,7 +45,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Hangcheng Liu, Li Bai✉️, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
-<span class="publication-venue" markdown="span">_In Proc. of International Conference on Machine Learning_, 2026.</span>
+<span class="publication-venue" markdown="span">_In Proc. of International Conference on Machine Learning (ICML)_, 2026.</span>
 
 - **[WWW'25]** [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Haibo Hu✉️, Qingqing Ye, Li Bai, Huadi Zheng</span><br />
