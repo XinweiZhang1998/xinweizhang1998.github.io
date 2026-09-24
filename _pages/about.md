@@ -39,9 +39,9 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 <span class='anchor' id='selected-publications'></span>
 # Selected Publications ([Full]({{ '/publications/' | relative_url }}))
 
-- **[NeurIPS'27]** **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate** <br />
+- **[NeurIPS'26]** **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate** <br />
 <span class="publication-authors" markdown="span">Haocheng Ye, Aoting Hu, **Xinwei Zhang**✉️, Xunzhu Tang, Shuchao Pang, Jason Xue</span><br />
-<span class="publication-venue" markdown="span">_In Proc. Neural Information Processing Systems (NeurIPS)_, 2027.</span>
+<span class="publication-venue" markdown="span">_In Proc. Neural Information Processing Systems (NeurIPS)_, 2026.</span>
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Hangcheng Liu, Li Bai✉️, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
@@ -83,7 +83,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 </style>
 <div class="news-scroll-container" markdown="1">
 
-- *2026.09*: Our paper, **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate**, is accepted by NeurIPS 2027.
+- *2026.09*: Our paper, **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate**, is accepted by NeurIPS 2026.
 - *2026.09*: Invited to serve as a Program Committee member for [CCS 2026](https://www.sigsac.org/ccs/CCS2026/) (Artifact Evaluation).
 - *2026.09*: Invited to serve as a reviewer for [ICLR 2027](https://iclr.cc/Conferences/2027).
 - *2026.08*: Invited to serve as a Program Committee member for [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27).
