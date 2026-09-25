@@ -97,11 +97,9 @@ author_profile: true
 
 <div class="publication-cards" markdown="1">
 
-<!-- Temporarily hidden: NeurIPS'26
 - **[NeurIPS'26]** **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate** ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">Haocheng Ye, Aoting Hu, **<ins>Xinwei Zhang</ins>**✉️, Xunzhu Tang, Shuchao Pang, Jason Xue</span><br />
 <span class="publication-venue" markdown="span">_In Proc. Neural Information Processing Systems (NeurIPS)_, 2026.</span>
--->
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">**<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai✉️, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
