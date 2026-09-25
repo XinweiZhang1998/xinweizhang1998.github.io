@@ -112,7 +112,6 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 <span class="publication-venue" markdown="span">_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081–6094, April 2022.</span>
 
 <nav class="page-toc" id="page-toc" aria-label="Table of contents">
-  <div class="page-toc__title">On this page</div>
   <ul class="page-toc__list">
     <li><a href="#about-me" data-toc-target="about-me">About Me</a></li>
     <li><a href="#research-interests" data-toc-target="research-interests">Research Interests</a></li>
@@ -130,12 +129,11 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
     .page-toc {
       display: block;
       position: fixed;
-      top: 50%;
+      top: 6.5rem;
       right: max(1rem, calc((100vw - 1280px) / 2 + 0.5rem));
       z-index: 40;
       width: 11.5rem;
-      padding: 0.85rem 0.9rem;
-      transform: translateY(-50%);
+      padding: 0.75rem 0.9rem;
       border: 1px solid #e5e7eb;
       border-left: 0.28rem solid #94a3b8;
       border-radius: 0.75rem;
@@ -144,15 +142,6 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
       backdrop-filter: blur(6px);
       font-size: 0.82rem;
       line-height: 1.35;
-    }
-
-    .page-toc__title {
-      margin-bottom: 0.55rem;
-      color: #64748b;
-      font-size: 0.72rem;
-      font-weight: 650;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
     }
 
     .page-toc__list {
