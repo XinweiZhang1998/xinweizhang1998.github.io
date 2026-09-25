@@ -27,6 +27,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
   </a>
 </p>
 
+<span class='anchor' id='research-interests'></span>
 # Research Interests
 
 - Physical-layer security, especially secret key generation: [[IoT-J'22](https://ieeexplore.ieee.org/document/9526766)]; [[TVT'24](https://ieeexplore.ieee.org/document/10440494)]
@@ -109,6 +110,114 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 - **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Guyue Li✉️, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao</span><br />
 <span class="publication-venue" markdown="span">_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081–6094, April 2022.</span>
+
+<nav class="page-toc" id="page-toc" aria-label="Table of contents">
+  <div class="page-toc__title">On this page</div>
+  <ul class="page-toc__list">
+    <li><a href="#about-me" data-toc-target="about-me">About Me</a></li>
+    <li><a href="#research-interests" data-toc-target="research-interests">Research Interests</a></li>
+    <li><a href="#news" data-toc-target="news">News</a></li>
+    <li><a href="#selected-publications" data-toc-target="selected-publications">Selected Publications</a></li>
+  </ul>
+</nav>
+
+<style>
+  .page-toc {
+    display: none;
+  }
+
+  @media (min-width: 1280px) {
+    .page-toc {
+      display: block;
+      position: fixed;
+      top: 50%;
+      right: max(1rem, calc((100vw - 1280px) / 2 + 0.5rem));
+      z-index: 40;
+      width: 11.5rem;
+      padding: 0.85rem 0.9rem;
+      transform: translateY(-50%);
+      border: 1px solid #e5e7eb;
+      border-left: 0.28rem solid #94a3b8;
+      border-radius: 0.75rem;
+      background: rgba(255, 255, 255, 0.94);
+      box-shadow: 0 0.4rem 1.2rem rgba(15, 23, 42, 0.08);
+      backdrop-filter: blur(6px);
+      font-size: 0.82rem;
+      line-height: 1.35;
+    }
+
+    .page-toc__title {
+      margin-bottom: 0.55rem;
+      color: #64748b;
+      font-size: 0.72rem;
+      font-weight: 650;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .page-toc__list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .page-toc__list li + li {
+      margin-top: 0.35rem;
+    }
+
+    .page-toc__list a {
+      display: block;
+      padding: 0.2rem 0.35rem;
+      border-radius: 0.35rem;
+      color: #475569;
+      text-decoration: none;
+      transition: color 0.15s ease, background 0.15s ease;
+    }
+
+    .page-toc__list a:hover {
+      color: #0f172a;
+      background: #f1f5f9;
+    }
+
+    .page-toc__list a.is-active {
+      color: #0f172a;
+      background: #e2e8f0;
+      font-weight: 600;
+    }
+  }
+</style>
+
+<script>
+  (function () {
+    var toc = document.getElementById('page-toc');
+    if (!toc) return;
+
+    var links = Array.prototype.slice.call(toc.querySelectorAll('[data-toc-target]'));
+    var sections = links.map(function (link) {
+      return document.getElementById(link.getAttribute('data-toc-target'));
+    }).filter(Boolean);
+
+    function setActive(id) {
+      links.forEach(function (link) {
+        link.classList.toggle('is-active', link.getAttribute('data-toc-target') === id);
+      });
+    }
+
+    function updateActive() {
+      var offset = 120;
+      var current = sections[0] && sections[0].id;
+      sections.forEach(function (section) {
+        var top = section.getBoundingClientRect().top;
+        if (top - offset <= 0) current = section.id;
+      });
+      if (current) setActive(current);
+    }
+
+    window.addEventListener('scroll', updateActive, { passive: true });
+    window.addEventListener('resize', updateActive);
+    updateActive();
+  })();
+</script>
 
 <!--
 <span class='anchor' id='visitors'></span>
