@@ -40,7 +40,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 # Selected Publications ([Full]({{ '/publications/' | relative_url }}))
 
 - **[NeurIPS'26]** **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate** <br />
-<span class="publication-authors" markdown="span">Haocheng Ye\*, Aoting Hu\*, **Xinwei Zhang**✉️, Xunzhu Tang, Shuchao Pang, Jason Xue</span><br />
+<span class="publication-authors" markdown="span">Haocheng Ye<sup>*</sup>, Aoting Hu<sup>*</sup>, **Xinwei Zhang**✉️, Xunzhu Tang, Shuchao Pang, Jason Xue</span><br />
 <span class="publication-venue" markdown="span">_In Proc. Neural Information Processing Systems (NeurIPS)_, 2026.</span>
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** <br />
