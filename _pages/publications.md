@@ -91,8 +91,8 @@ author_profile: true
 </style>
 
 # 📖 Publications
-(* is the co-first author.  
-✉️ is the corresponding author)
+(* is the co-first author)  
+(✉️ is the corresponding author)
 
 ## 2026
 
