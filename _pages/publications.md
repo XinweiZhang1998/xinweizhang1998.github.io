@@ -114,6 +114,10 @@ author_profile: true
 <span class="publication-authors" markdown="span">Siyi Xiao, Lejun Zhang✉️, **<ins>Xinwei Zhang</ins>**, Sen Zhang, Shen Su, Jing Qiu, Ran Guo, Haibo Hu</span><br />
 <span class="publication-venue" markdown="span">_IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/TDSC26_GraphFlowGen.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
+- **[DSPP'26]** **BitTrace: Black-Box Multi-Bit Watermarking for Client Attribution of LLM Copies** <br />
+<span class="publication-authors" markdown="span">Hao Xia, Aoting Hu✉️, Haoran Ou✉️, Hao Wang, **<ins>Xinwei Zhang</ins>**✉️</span><br />
+<span class="publication-venue" markdown="span">_In Proc. of International Conference on Data Security and Privacy Protection (DSPP)_, 2026.</span>
+
 </div>
 
 ## 2025

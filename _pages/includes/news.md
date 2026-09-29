@@ -1,4 +1,5 @@
 # News
+- *2026.09*: Our paper, **BitTrace: Black-Box Multi-Bit Watermarking for Client Attribution of LLM Copies**, is accepted by DSPP 2026 (28/116, acceptance rate: 24.1%).
 - *2026.04*: Our paper, **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**, is accepted by ICML 2026.
 - *2025.12*: Our paper, **United We Defend: Collaborative Membership Inference Defenses in Federated Learning**, is accepted by Usenix Security 2026.
 - *2025.09*: Our paper, **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**, is accepted by NeurIPS 2025.
