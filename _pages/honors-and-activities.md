@@ -27,7 +27,7 @@ author_profile: true
   - ACM Conference on Computer and Communications Security (CCS): 2026 (Artifact Evaluation Committee)
   - International Conference on Learning Representations (ICLR): 2027
   - International Conference on Machine Learning (ICML): 2026 (Silver Reviewer)
-  - Annual Conference on Neural Information Processing Systems (NeurIPS): 2025, 2026 (Top Reviewer for 2026)
+  - Annual Conference on Neural Information Processing Systems (NeurIPS): 2025, 2026 (Top Reviewer)
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2026, 2027
   - ACM Web Conference (WWW): 2025, 2026
   - ACM International Conference on Multimedia (MM): 2025, 2026
