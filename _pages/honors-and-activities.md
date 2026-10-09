@@ -23,16 +23,16 @@ author_profile: true
 - IEEE Student Member.
 - ACM Student Member.
 - Conference Programme Chair / Reviewer:
-  - USENIX Security Symposium (USENIX Security 2027)
-  - ACM Conference on Computer and Communications Security (CCS 2026, Artifact Evaluation Committee)
-  - International Conference on Learning Representations (ICLR 2027)
-  - International Conference on Machine Learning (ICML 2026)
-  - Annual Conference on Neural Information Processing Systems (NeurIPS 2025, 2026)
-  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, 2027)
-  - ACM Web Conference (WWW 2025, 2026)
-  - ACM International Conference on Multimedia (MM 2025, 2026)
-  - Annual AAAI Conference on Artificial Intelligence (AAAI 2027)
-  - International Conference on Data Security and Privacy Protection (DSPP 2026)
+  - USENIX Security Symposium (USENIX Security): 2027
+  - ACM Conference on Computer and Communications Security (CCS): 2026 (Artifact Evaluation Committee)
+  - International Conference on Learning Representations (ICLR): 2027
+  - International Conference on Machine Learning (ICML): 2026 (Silver Reviewer)
+  - Annual Conference on Neural Information Processing Systems (NeurIPS): 2025, 2026 (Top Reviewer for 2026)
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2026, 2027
+  - ACM Web Conference (WWW): 2025, 2026
+  - ACM International Conference on Multimedia (MM): 2025, 2026
+  - Annual AAAI Conference on Artificial Intelligence (AAAI): 2027
+  - International Conference on Data Security and Privacy Protection (DSPP): 2026
 - Journal Reviewer:
   - IEEE Journal on Selected Areas in Communications (J-SAC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
