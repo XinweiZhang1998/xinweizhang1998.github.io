@@ -34,9 +34,9 @@ author_profile: true
   - Annual AAAI Conference on Artificial Intelligence (AAAI): 2027
   - International Conference on Data Security and Privacy Protection (DSPP): 2026
 - Journal Reviewer:
-  - IEEE Journal on Selected Areas in Communications (J-SAC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - IEEE Journal on Selected Areas in Communications (J-SAC)
   - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Internet of Things Journal (IoT-J)
