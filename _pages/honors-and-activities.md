@@ -36,6 +36,7 @@ author_profile: true
 - Journal Reviewer:
   - IEEE Journal on Selected Areas in Communications (J-SAC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Wireless Communication (TWC)
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Internet of Things Journal (IoT-J)
