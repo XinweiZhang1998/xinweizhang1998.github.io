@@ -7,6 +7,7 @@ author_profile: true
 
 # Honors and Awards
 
+- Top Reviewer, NeurIPS, 2026.
 - Research Student Attachment Programme, PolyU, 2025. (HKD 55,000)
 - International Collaborative Research Fellowship, PolyU, 2025. (HKD 55,000)
 - PolyU Research Postgraduate Scholarship, 2023-2026.
@@ -20,8 +21,6 @@ author_profile: true
 
 # Professional Activities
 
-- IEEE Student Member.
-- ACM Student Member.
 - Conference Programme Chair / Reviewer:
   - USENIX Security Symposium (USENIX Security): 2027
   - ACM Conference on Computer and Communications Security (CCS): 2026 (Artifact Evaluation Committee)

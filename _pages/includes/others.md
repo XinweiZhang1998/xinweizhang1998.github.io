@@ -24,8 +24,6 @@
 - *Apr. 2021- Sep. 2021*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Supervisor: [Prof. Bin Xiao (IEEE Fellow)](https://www4.comp.polyu.edu.hk/~csbxiao/).
 
 # Professional Activities
-- IEEE Student Member.
-- ACM Student Member.
 - Journal/Conference reviewer:
   - The Conference on Neural Information Processing Systems (NeurIPS)
   - ACM Web Conference (WWW)
