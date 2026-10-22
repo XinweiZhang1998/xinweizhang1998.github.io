@@ -61,6 +61,7 @@ Feel free to drop me an email if you want to collaborate or have a discussion!
 </style>
 <div class="news-scroll-container" markdown="1">
 
+- *2026.10*: Invited to serve as the Associate Editor of Journal of Wireless Communications and Networking (JCR Q3).
 - *2026.10*: Successfully defended my PhD thesis! 🎉🎉
 - *2026.09*: Our paper, **BitTrace: Black-Box Multi-Bit Watermarking for Client Attribution of LLM Copies**, is accepted by DSPP 2026 (28/116, acceptance rate: 24.1%).
 - *2026.09*: Our paper, **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate**, is accepted by NeurIPS 2026.
