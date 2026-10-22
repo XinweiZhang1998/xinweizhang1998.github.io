@@ -25,7 +25,7 @@
 
 # Professional Activities
 - Associate Editor:
-  - Journal of Wireless Communications and Networking (JCR Q3): 2026-now
+  - Journal of Wireless Communications and Networking: 2026-now
 - Journal/Conference reviewer:
   - The Conference on Neural Information Processing Systems (NeurIPS)
   - ACM Web Conference (WWW)
