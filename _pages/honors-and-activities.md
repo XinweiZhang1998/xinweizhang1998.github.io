@@ -22,7 +22,7 @@ author_profile: true
 # Professional Activities
 
 - Associate Editor:
-  - Journal of Wireless Communications and Networking: 2026-now
+  - [Journal of Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/): 2026-now
 - Conference Programme Chair / Reviewer:
   - USENIX Security Symposium (USENIX Security): 2027
   - ACM Conference on Computer and Communications Security (CCS): 2026 (Artifact Evaluation Committee)
@@ -30,7 +30,7 @@ author_profile: true
   - International Conference on Machine Learning (ICML): 2026 (Silver Reviewer)
   - Annual Conference on Neural Information Processing Systems (NeurIPS): 2025, 2026 (Top Reviewer)
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2026, 2027
-  - ACM Web Conference (WWW): 2025, 2026
+  - ACM Web Conference (WWW): 2025, 2026, 2027
   - ACM International Conference on Multimedia (MM): 2025, 2026
   - Annual AAAI Conference on Artificial Intelligence (AAAI): 2027
   - International Conference on Data Security and Privacy Protection (DSPP): 2026
