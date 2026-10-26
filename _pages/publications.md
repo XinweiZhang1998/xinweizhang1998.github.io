@@ -100,7 +100,7 @@ author_profile: true
 
 - **[NeurIPS'26]** **[Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate](https://arxiv.org/abs/2610.04860)** ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">Haocheng Ye<sup>*</sup>, Aoting Hu<sup>*</sup>, **<ins>Xinwei Zhang</ins>**#, Xunzhu Tang, Shuchao Pang#, Jason Xue</span><br />
-<span class="publication-venue" markdown="span">_In Proc. Neural Information Processing Systems (NeurIPS)_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://arxiv.org/pdf/2610.04860" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
+<span class="publication-venue" markdown="span">_In Proc. of Neural Information Processing Systems (NeurIPS)_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://arxiv.org/pdf/2610.04860" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">**<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai#, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
@@ -130,7 +130,7 @@ author_profile: true
 
 - **[NeurIPS'25]** [**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**](https://openreview.net/forum?id=bSs0d6NLiw&referrer=%5Bthe%20profile%20of%20Xinwei%20Zhang%5D) ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">Li Bai, Qingqing Ye, **<ins>Xinwei Zhang</ins>**, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu#</span><br />
-<span class="publication-venue" markdown="span">_In Proc. Neural Information Processing Systems (NeurIPS)_, December 2025.</span><span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/BaiLibl/ShadowPool" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
+<span class="publication-venue" markdown="span">_In Proc. of Neural Information Processing Systems (NeurIPS)_, December 2025.</span><span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/BaiLibl/ShadowPool" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://xinweizhang1998.github.io/_pages/File/NIPS25_SHAPOOL.pdf" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 - **[TIFS'25]** [**ProVFL: Property Inference Attacks against Vertical Federated Learning**](https://ieeexplore.ieee.org/document/11045555) ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">Li Bai, **<ins>Xinwei Zhang</ins>**, Sen Zhang, Qingqing Ye, Haibo Hu#</span><br />
