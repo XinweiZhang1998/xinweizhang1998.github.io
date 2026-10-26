@@ -100,7 +100,7 @@ author_profile: true
 
 - **[NeurIPS'26]** **[Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate](https://arxiv.org/abs/2610.04860)** ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">Haocheng Ye<sup>*</sup>, Aoting Hu<sup>*</sup>, **<ins>Xinwei Zhang</ins>**#, Xunzhu Tang, Shuchao Pang#, Jason Xue</span><br />
-<span class="publication-venue" markdown="span">_Neural Information Processing Systems (NeurIPS)_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--pdf" href="https://arxiv.org/pdf/2610.04860" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
+<span class="publication-venue" markdown="span">_Neural Information Processing Systems (NeurIPS)_, 2026.</span><span class="pub-links"><a class="pub-icon pub-icon--code" href="https://github.com/Haocheng-NJUST/WM-Hallucination" target="_blank" rel="noopener" aria-label="Code" title="Code"><i class="fab fa-github" aria-hidden="true"></i></a><a class="pub-icon pub-icon--pdf" href="https://arxiv.org/pdf/2610.04860" target="_blank" rel="noopener" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i></a></span>
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** ![CCF-A](https://img.shields.io/badge/CCF-A-red) <br />
 <span class="publication-authors" markdown="span">**<ins>Xinwei Zhang</ins>**, Hangcheng Liu, Li Bai#, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
