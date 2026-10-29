@@ -21,8 +21,10 @@ author_profile: true
 
 # Professional Activities
 
+<!--
 - Associate Editor:
   - [Journal of Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/): 2026-now
+-->
 - Conference Programme Chair / Reviewer:
   - USENIX Security Symposium (USENIX Security): 2027
   - ACM Conference on Computer and Communications Security (CCS): 2026 (Artifact Evaluation Committee)
