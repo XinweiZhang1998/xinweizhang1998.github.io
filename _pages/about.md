@@ -13,6 +13,7 @@ redirect_from:
 
 I am a PhD student with [the Department of Electrical and Electronic Engineering (EEE)](https://www.polyu.edu.hk/eie/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of [Prof. Haibo Hu](http://www.haibohu.org/) ([ASTAPLE](http://www.astaple.com/)). From December 2025 to August 2026, I was a visiting PhD student with [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). I received the Master's degree in computer technology with [the School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2022, under the supervision of [Prof. Guyue Li](https://guyuelee.github.io/blog.github.io/
 ).
+<p style="color: #1e3a8a; font-weight: 600;">I am seeking any postdoctoral and research positions now. Please contact me if you have an opening or would like to discuss a possible opportunity.</p>
 Feel free to drop me an email if you want to collaborate or have a discussion!
 
 <p class="scholar-citations">
