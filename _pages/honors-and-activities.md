@@ -21,8 +21,27 @@ author_profile: true
 
 # Talks
 
-- *Nov. 9, 2026*: **Evaluating Security Risks in Machine Learning Models: Model Extraction and Adversarial Robustness**, Southeast University.
-- *Apr. 25, 2026*: **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**, Harbin Institute of Technology.
+<table>
+  <thead>
+    <tr>
+      <th style="white-space: nowrap;">Date</th>
+      <th>Title</th>
+      <th>Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="white-space: nowrap;">Nov. 9, 2026</td>
+      <td>Evaluating Security Risks in Machine Learning Models: Model Extraction and Adversarial Robustness</td>
+      <td>Southeast University</td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;">Apr. 25, 2026</td>
+      <td>On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression</td>
+      <td>Harbin Institute of Technology</td>
+    </tr>
+  </tbody>
+</table>
 
 # Professional Activities
 
