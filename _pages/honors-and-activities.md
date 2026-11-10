@@ -45,3 +45,8 @@ author_profile: true
   - IEEE Internet of Things Journal (IoT-J)
   - International Journal of Information Security
   - IEEE Systems Journal
+
+# Talks
+
+- *Nov. 9, 2026*: **Evaluating Security Risks in Machine Learning Models: Model Extraction and Adversarial Robustness**, Southeast University.
+- *Apr. 25, 2026*: **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**, Harbin Institute of Technology.
