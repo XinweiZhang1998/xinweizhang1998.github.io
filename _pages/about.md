@@ -66,7 +66,7 @@ I am seeking any postdoctoral and research positions now. Please contact me if y
 <div class="news-scroll-container" markdown="1">
 
 - *2026.11*: Invited to serve as an Associate Editor for [Journal on Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/).
-- *2026.11*: Invited to serve as a reviewer for [WWW 2027](https://www2027.thewebconf.org/) and [CVPR 2027](https://cvpr.thecvf.com/Conferences/2027).
+- *2026.11*: Invited to serve as a reviewer for [WWW 2027](https://www2027.thewebconf.org/), [CVPR 2027](https://cvpr.thecvf.com/Conferences/2027), and [ICML 2027](https://icml.cc/Conferences/2027).
 - *2026.10*: Successfully defended my PhD thesis! 🎉🎉
 - *2026.09*: Our paper, **BitTrace: Black-Box Multi-Bit Watermarking for Client Attribution of LLM Copies**, is accepted by DSPP 2026 (28/116, acceptance rate: 24.1%).
 - *2026.09*: Our paper, **Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate**, is accepted by NeurIPS 2026.

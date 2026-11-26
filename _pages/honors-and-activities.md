@@ -53,7 +53,7 @@ author_profile: true
   - USENIX Security Symposium (USENIX Security): 2027
   - ACM Conference on Computer and Communications Security (CCS): 2026 (Artifact Evaluation Committee)
   - International Conference on Learning Representations (ICLR): 2027
-  - International Conference on Machine Learning (ICML): 2026 (Silver Reviewer)
+  - International Conference on Machine Learning (ICML): 2026 (Silver Reviewer), 2027
   - Annual Conference on Neural Information Processing Systems (NeurIPS): 2025, 2026 (Top Reviewer)
   - IEEE / CVF Computer Vision and Pattern Recognition (CVPR): 2027
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2026, 2027
