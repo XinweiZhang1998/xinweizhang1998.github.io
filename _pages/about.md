@@ -101,23 +101,28 @@ I am seeking any postdoctoral and research positions now. Please contact me if y
 
 - **[NeurIPS'26]** **[Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate](https://arxiv.org/abs/2610.04860)** <br />
 <span class="publication-authors" markdown="span">Haocheng Ye<sup>*</sup>, Aoting Hu<sup>*</sup>, **Xinwei Zhang**#, Xunzhu Tang, Shuchao Pang#, Jason Xue</span><br />
-<span class="publication-venue" markdown="span">_Neural Information Processing Systems (NeurIPS)_, 2026.</span>
+<span class="publication-venue" markdown="span">_Neural Information Processing Systems (NeurIPS)_, 2026.</span><br />
+<a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OdBgAwkAAAAJ&citation_for_view=OdBgAwkAAAAJ:abG-DnoFyZgC" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dynamic/json?label=citations&color=lightgrey&url=https%3A%2F%2Fraw.githubusercontent.com%2FXinweiZhang1998%2Fxinweizhang1998.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27OdBgAwkAAAAJ%3AabG-DnoFyZgC%27%5D.num_citations" alt="Google Scholar citations" height="20" style="vertical-align: text-bottom;"></a>
 
 - **[ICML'26]** **[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](https://openreview.net/forum?id=q5sBPXOuHC)** <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Hangcheng Liu, Li Bai#, Hao Wang, Qingqing Ye, Tianwei Zhang, Haibo Hu</span><br />
-<span class="publication-venue" markdown="span">_International Conference on Machine Learning (ICML)_, 2026.</span>
+<span class="publication-venue" markdown="span">_International Conference on Machine Learning (ICML)_, 2026.</span><br />
+<a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OdBgAwkAAAAJ&citation_for_view=OdBgAwkAAAAJ:4OULZ7Gr8RgC" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dynamic/json?label=citations&color=lightgrey&url=https%3A%2F%2Fraw.githubusercontent.com%2FXinweiZhang1998%2Fxinweizhang1998.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27OdBgAwkAAAAJ%3A4OULZ7Gr8RgC%27%5D.num_citations" alt="Google Scholar citations" height="20" style="vertical-align: text-bottom;"></a>
 
 - **[WWW'25]** [**MER-Inspector: Assessing Model Extraction Risks from An Attack-Agnostic Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714894) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Haibo Hu#, Qingqing Ye, Li Bai, Huadi Zheng</span><br />
-<span class="publication-venue" markdown="span">_The ACM Web Conference (WWW)_, 2025.</span>
+<span class="publication-venue" markdown="span">_The ACM Web Conference (WWW)_, 2025.</span><br />
+<a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OdBgAwkAAAAJ&citation_for_view=OdBgAwkAAAAJ:pyW8ca7W8N0C" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dynamic/json?label=citations&color=lightgrey&url=https%3A%2F%2Fraw.githubusercontent.com%2FXinweiZhang1998%2Fxinweizhang1998.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27OdBgAwkAAAAJ%3ApyW8ca7W8N0C%27%5D.num_citations" alt="Google Scholar citations" height="20" style="vertical-align: text-bottom;"></a>
 
 - **[TVT'24]** [**Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments**](https://ieeexplore.ieee.org/document/10440494) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Guyue Li#, Junqing Zhang, Linning Peng, Aiqun Hu, Xianbin Wang</span><br />
-<span class="publication-venue" markdown="span">_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135–10149, July 2024.</span>
+<span class="publication-venue" markdown="span">_IEEE Transactions on Vehicular Technology (TVT)_, vol. 73, no. 7, pp. 10135–10149, July 2024.</span><br />
+<a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OdBgAwkAAAAJ&citation_for_view=OdBgAwkAAAAJ:1sJd4Hv_s6UC" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dynamic/json?label=citations&color=lightgrey&url=https%3A%2F%2Fraw.githubusercontent.com%2FXinweiZhang1998%2Fxinweizhang1998.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27OdBgAwkAAAAJ%3A1sJd4Hv_s6UC%27%5D.num_citations" alt="Google Scholar citations" height="20" style="vertical-align: text-bottom;"></a>
 
 - **[IoT-J'22]** [**Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems**](https://ieeexplore.ieee.org/document/9526766) <br />
 <span class="publication-authors" markdown="span">**Xinwei Zhang**, Guyue Li#, Junqing Zhang, Aiqun Hu, Zongyue Hou, Bin Xiao</span><br />
-<span class="publication-venue" markdown="span">_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081–6094, April 2022.</span>
+<span class="publication-venue" markdown="span">_IEEE Internet of Things Journal (IoT-J)_, vol. 9, no. 8, pp. 6081–6094, April 2022.</span><br />
+<a class="publication-citations" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OdBgAwkAAAAJ&citation_for_view=OdBgAwkAAAAJ:CHSYGLWDkRkC" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dynamic/json?label=citations&color=lightgrey&url=https%3A%2F%2Fraw.githubusercontent.com%2FXinweiZhang1998%2Fxinweizhang1998.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%27OdBgAwkAAAAJ%3ACHSYGLWDkRkC%27%5D.num_citations" alt="Google Scholar citations" height="20" style="vertical-align: text-bottom;"></a>
 
 <nav class="page-toc" id="page-toc" aria-label="Table of contents">
   <ul class="page-toc__list">
